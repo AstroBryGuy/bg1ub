@@ -3,7 +3,7 @@
 @10000 = ~Edie~
 
 //#11166
-@10001 = ~You'll feel the sting o' my boot if you bother me further.~ [%tutu_var%WOMLC02]
+@10001 = ~You'll feel the sting o' my boot if you bother me further!~ [%tutu_var%WOMLC02]
 @10002 = ~~ [%tutu_var%FTOWN05]
 @10003 = ~~ [%tutu_var%WOMLC03]
 
@@ -11,7 +11,7 @@
 @10004 = ~Enna Hendrik~
 
 //#4902
-@10005 = ~My hubby don't want me talking to no strangers.~ [%tutu_var%FTOWN02]
+@10005 = ~My hubby don't want me talkin' to no strangers.~ [%tutu_var%FTOWN02]
 
 //#13309
 @10006 = ~You're not welcome here!~
@@ -26,7 +26,7 @@
 
 
 //#8959
-@10011 = ~Get out of my sight!  I'll do nothing for you!~
+@10011 = ~Get out of my sight! I'll do nothing for you!~
 
 //#20245
 @10012 = ~Feldane~
@@ -34,21 +34,21 @@
 //#4983
 @10013 = ~Our library is a man's harem of knowledge.~ [%tutu_var%READR01]
 @10014 = ~~ [%tutu_var%READR05]
-@10015 = ~~ [%tutu_var%READR06]
+@10015 = ~Nooo!~ [%tutu_var%READR06]
 
 //#4984
-@10016 = ~Excuse me but I am late for my classes.~ [%tutu_var%READR02]
+@10016 = ~Oh... 'scuse me, but I am late for my classes.~ [%tutu_var%READR02]
 
 //#12238
-@10017 = ~Galkin~
+@10017 = ~Galken~
 
 //#4762
-@10018 = ~Will no-one take me offer?  Bah!  Yer all nay men at all!~ [%tutu_var%GALKN01]
+@10018 = ~Will no one take me offer? Bah! You're all nae men at all!~ [%tutu_var%GALKN01]
 @10019 = ~~ [%tutu_var%GALKN03]
 @10020 = ~~ [%tutu_var%GALKN04]
 
 //#4763
-@10021 = ~Uh... The gout be in me left leg somethin' fierce, and... and I gotta pay off the Innkeep lest he take me right!~ [%tutu_var%GALKN02]
+@10021 = ~Uh... The gout be in me left leg somethin' fierce, and, uh... I gotta pay off the innkeep lest he take me right!~ [%tutu_var%GALKN02]
 
 //#9406
 @10022 = ~Girl~
@@ -59,13 +59,13 @@
 @10025 = ~~ [%tutu_var%FCHIL06]
 
 //#8944
-@10026 = ~Leave me alone!  You're mean!~
+@10026 = ~Leave me alone! You're mean!~
 
 //#13840
 @10027 = ~Halfling Woman~
 
 //#11238
-@10028 = ~Ooo, it's a fine day for meeting new friends.~ [%tutu_var%HALFF01]
+@10028 = ~Ooh, it's a fine day for meeting new friends.~ [%tutu_var%HALFF01]
 @10029 = ~~ [%tutu_var%HALFF05]
 @10030 = ~~ [%tutu_var%HALFF06]
 
@@ -73,10 +73,10 @@
 @10031 = ~You've outstayed your welcome!~
 
 //#13344
-@10032 = ~Welcome again.  I would have thought you had moved on by now.  It's a pleasure you have not, though.~
+@10032 = ~Welcome again. I would have thought you had moved on by now. It's a pleasure you have not, though.~
 
 //#13345
-@10033 = ~I am surprised to see you again.  Has not the wanderer's call seized your logic once again?  By Dallillia, I hope none of the children follow when you go.~
+@10033 = ~I am surprised to see you again. Has not the wanderer's call seized your logic once again? By Dallillia, I hope none of the children follow when you go.~
 
 //#13839
 @10034 = ~Halfling Man~
@@ -90,19 +90,19 @@
 @10038 = ~Not to be rude, but I'd rather you left immediately.~
 
 //#13347
-@10039 = ~Hello again.  A pleasure as it was before.~
+@10039 = ~Hello again. A pleasure as it was before.~
 
 //#13348
-@10040 = ~I see you have returned.  I trust you will stay no longer than last we met?~
+@10040 = ~I see you have returned. I trust you will stay no longer than last we met?~
 
 //#12310
-@10041 = ~Elminster~
+@10041 = ~Elminster Aumar~
 
 //#9431
 @10042 = ~Commoner~
 
 //#11093
-@10043 = ~'Ello pal.~ [%tutu_var%GENMG13]
+@10043 = ~ 'Ello, pal.~ [%tutu_var%GENMG13]
 @10044 = ~~ [%tutu_var%VILLM05]
 @10045 = ~~ [%tutu_var%MTOWN06]
 
@@ -119,9 +119,9 @@
 @10049 = ~Time for some carnage!~ [%tutu_var%OGRIL03]
 
 //#5164
-@10050 = ~Die, pip-squeaks!~ [%tutu_var%OGRIL04]
-@10051 = ~~ [%tutu_var%OGRIL05] //non-existent
-@10052 = ~~ [%tutu_var%OGRIL06] //non-existent
+@10050 = ~Die, pipsqueaks!~ [%tutu_var%OGRIL04]
+@10051 = ~~ //non-existent
+@10052 = ~~ //non-existent
 @10053 = ~~ [%tutu_var%OGRIL08]
 @10054 = ~~ [%tutu_var%OGRIL09]
 
@@ -129,7 +129,7 @@
 @10055 = ~You mess with me, you mess with you!~ [%tutu_var%OGRIL01]
 
 //#5162
-@10056 = ~All the guys pick on me cause I'm only 6'8"...~ [%tutu_var%OGRIL02]
+@10056 = ~All the guys pick on me... 'cause I'm only 6'8".~ [%tutu_var%OGRIL02]
 
 //#9356
 @10057 = ~Half Ogre~
@@ -146,7 +146,7 @@
 @10062 = ~Me hungry.~ [%tutu_var%HOGRE01]
 
 //#5156
-@10063 = ~Buuuurp.  Har har -fart-~ [%tutu_var%HOGRE02]
+@10063 = ~*burp* Uha ha ha mm! Heh, fart...~ [%tutu_var%HOGRE02]
 
 //#9412
 @10064 = ~Reader~
@@ -159,7 +159,7 @@
 @10069 = ~~ [%tutu_var%TASLO06]
 @10070 = ~~ [%tutu_var%TASLO08]
 @10071 = ~~ [%tutu_var%TASLO09]
-@10072 = ~~ [%tutu_var%TASLO00] //non-existent
+@10072 = ~~ //non-existent
 @10073 = ~~ [%tutu_var%TASLO01]
 @10074 = ~~ [%tutu_var%TASLO02]
 
@@ -170,32 +170,32 @@
 @10076 = ~Serving Wench~
 
 //#4786
-@10077 = ~If you will, the tab?  Mr. Volo was here for some time.~ [%tutu_var%WENCH01]
+@10077 = ~If you will, the tab? Mr. Volo was here for some time.~ [%tutu_var%WENCH01]
 @10078 = ~~ [%tutu_var%WENCH03]
 @10079 = ~~ [%tutu_var%WENCH04]
 
 //#4787
-@10080 = ~Of course I'm actually a writer.  I just wait tables to pay the bills.~ [%tutu_var%WENCH02]
+@10080 = ~Of course, I'm actually a writer. I just wait tables to pay the bills.~ [%tutu_var%WENCH02]
 
 //#12761
-@10081 = ~Wilton~
+@10081 = ~Farmer Wilton~
 
 //#4821
-@10082 = ~Stop a second there young'n, cuz I heard what you gone and done for old Brun.~ [%tutu_var%WILTN01]
+@10082 = ~Stop a second there, young 'un, 'cuz I heard what you gone and done for old Brun.~ [%tutu_var%WILTN01]
 @10083 = ~~ [%tutu_var%WILTN03]
 @10084 = ~~ [%tutu_var%WILTN04]
 
 //#4822
-@10085 = ~'Tis so hard to find decent folk nowadays.~ [%tutu_var%WILTN02]
+@10085 = ~So hard to find decent folk nowadays...~ [%tutu_var%WILTN02]
 
 //#9036
-@10086 = ~Leave me be.  I got nothin' for you.~
+@10086 = ~Leave me be. I got nothin' for you.~
 
 //#13679
-@10087 = ~Sorry young'un, but I gotta lot of farming to do.~
+@10087 = ~Sorry, young 'un, but I got a lot of farming to do.~
 
 //#23935
-@10088 = ~Oooh, a new face in town, eh?~ [%tutu_var%TSCFT01]
+@10088 = ~Oh, a new face in town, eh?~ [%tutu_var%TSCFT01]
 
 //#13649
 @10089 = ~You'll get nothing from me!~
@@ -209,12 +209,12 @@
 @10093 = ~Meym~
 
 //#11081
-@10094 = ~You need something, stranger?~ [%tutu_var%GENMG04]
+@10094 = ~You need somethin', stranger?~ [%tutu_var%GENMG04]
 @10095 = ~~ [%tutu_var%MINER05]
 @10096 = ~~ [%tutu_var%MINER06]
 
 //#23929
-@10097 = ~Well, hello there, young'un.~ [%tutu_var%TSCMT02]
+@10097 = ~Well, hello there, young 'un.~ [%tutu_var%TSCMT02]
 @10098 = ~~ [%tutu_var%VILLM06]
 
 //#23930
@@ -227,12 +227,12 @@
 @10101 = ~Me will crush you, crush you to goo!~ [%tutu_var%OGREE03]
 
 //#5149
-@10102 = ~Me will smash your face!~ [%tutu_var%OGREE04]
+@10102 = ~Me will smash your face.~ [%tutu_var%OGREE04]
 @10103 = ~~ [%tutu_var%OGREE08]
 @10104 = ~~ [%tutu_var%OGREE09]
 
 //#5147
-@10105 = ~I will crush.~ [%tutu_var%OGREE01]
+@10105 = ~I will crush!~ [%tutu_var%OGREE01]
 @10106 = ~~ [%tutu_var%OGREE02]
 
 //#10006
@@ -254,7 +254,7 @@
 @10118 = ~~ [%tutu_var%GHOUL01]
 
 //#5142
-@10119 = ~Mmmmm, me like flesh, heh heh.~ [%tutu_var%GHOUL02]
+@10119 = ~(Mmmmm, me like flesh, heh heh.)~ [%tutu_var%GHOUL02]
 
 //#13712
 @10120 = ~Bird~
@@ -291,24 +291,24 @@
 @10135 = ~Herschel~
 
 //#4874
-@10136 = ~No time to chit-chat.~ [%tutu_var%NOBLE02]
+@10136 = ~No time to chitchat.~ [%tutu_var%NOBLE02]
 @10137 = ~~ [%tutu_var%NOBLE05]
 @10138 = ~~ [%tutu_var%NOBLE06]
 
 //#4875
-@10139 = ~Away with you beggar.~ [%tutu_var%NOBLE03]
+@10139 = ~Away with you, beggar.~ [%tutu_var%NOBLE03]
 
 //#4874
-@10140 = ~No time to chit-chat.~ [%tutu_var%NOBLE02]
+@10140 = ~No time to chitchat.~ [%tutu_var%NOBLE02]
 
 //#4873
 @10141 = ~A man shouldn't speak to his better unless spoken to first.~ [%tutu_var%NOBLE01]
 
 //#4876
-@10142 = ~Don't touch me!  I might catch something.~ [%tutu_var%NOBLE04]
+@10142 = ~Don't touch me! I might catch something.~ [%tutu_var%NOBLE04]
 
 //#8909
-@10143 = ~Approach me not!  I'll ruffle you up, I will!~
+@10143 = ~Approach me not! I'll ruffle you up, I will!~
 
 //#9432
 @10144 = ~Merchant~
@@ -322,13 +322,13 @@
 @10148 = ~I've got the best prices this side of Cormyr.~ [%tutu_var%MERCH01]
 
 //#4960
-@10149 = ~All my stuff's authentic, really it is.~ [%tutu_var%MERCH02]
+@10149 = ~All my stuff is authentic. Really, it is.~ [%tutu_var%MERCH02]
 
 //#4961
 @10150 = ~Those damnable bandits have been really bad for business.~ [%tutu_var%MERCH03]
 
 //#4962
-@10151 = ~I love money, yes I do!~ [%tutu_var%MERCH04]
+@10151 = ~I love money! Yes, I do.~ [%tutu_var%MERCH04]
 
 //#8930
 @10152 = ~I wouldn't trust you as far as I can spit!~
@@ -337,25 +337,25 @@
 @10153 = ~Serving Wench~
 
 //#4866
-@10154 = ~Why, yer all such BIG men.~ [%tutu_var%SWENC02]
+@10154 = ~Why, ye're all such BIG men.~ [%tutu_var%SWENC02]
 @10155 = ~~ [%tutu_var%SWENC05]
 @10156 = ~~ [%tutu_var%SWENC06]
 
 //#4865
-@10157 = ~'Tis always good to give a little tip.~ [%tutu_var%SWENC01]
+@10157 = ~ 'Tis always good to give a little tip.~ [%tutu_var%SWENC01]
 
 //#9086
 @10158 = ~Get away, you nobbish plonker!~
 
 //#13607
-@10159 = ~Ye drop another careless hand near me and I swears you'll lose it!  Order up at the bar.~
-@10160 = ~~ [%tutu_var%SWENC04]
+@10159 = ~Ye drop another careless hand near me and I swears you'll lose it! Order up at the bar.~
+@10160 = ~Please, seat yerselves wherever you wish.~ [%tutu_var%SWENC04]
 
 //#12894
 @10161 = ~Bartender~
 
 //#4944
-@10162 = ~Ye want some whiskey?~ [%tutu_var%BARTN01]
+@10162 = ~You want some whiskey?~ [%tutu_var%BARTN01]
 @10163 = ~~ [%tutu_var%BARTN05]
 @10164 = ~~ [%tutu_var%BARTN06]
 
@@ -363,17 +363,17 @@
 @10165 = ~I got some cheap beer for ya.~ [%tutu_var%BARTN02]
 
 //#4946
-@10166 = ~I gotta stop dippin' into me own ale.~ [%tutu_var%BARTN03]
+@10166 = ~Urgh... I gotta stop dippin' into me own ale.~ [%tutu_var%BARTN03]
 
 //#4947
-@10167 = ~I got me some nice lookin' waitresses, don't I?~ [%tutu_var%BARTN04]
+@10167 = ~I got me some nice lookin' waitresses, don't I? Eh he hehehe...~ [%tutu_var%BARTN04]
 
 //#4862
-@10168 = ~Waaaaaaaaaa!~ [%tutu_var%FCHIL02]
+@10168 = ~~ [%tutu_var%FCHIL02]
 @10169 = ~~ [%tutu_scripta%MB_M34A]
 
 //#22786 - change Blunt Weapons to Club
-@10170 = ~Club +1 (+3 versus unnatural creatures) : 'The Root of the Problem':
+@10170 = ~Club +1: The Root of the Problem
 This enchanted club is said to have existed since the time of the fall of Netheril and the birth of the great Anauroch Desert. While the toll on civilization was great, the true victims of this age were nature's creatures, condemned to stand and watch as their homes decayed and died. As habitats receded, those that remained were invaded by displaced hordes of creatures, the more impatient of which marched on unspoiled land taking whatever they wished. This particular weapon is said to have come from a dryad's tree, a final gift to nature's cause from a woodland spirit that could not hold back the invaders of her land. Hers was a bittersweet pain, as her wood might not have suffered so if it had not been so strong and lush. Less respecting scholars have since bestowed the item's ironic name, though the humor is not appreciated among nature's more devout followers.
 
 STATISTICS:
@@ -392,25 +392,25 @@ Not Usable By:
 @10171 = ~Book~
 
 //#7414
-@10172 = ~The people of Gullykin don't appreciate those who would pilfer our hard-earned possessions.  Give yourselves up, robbers!~
+@10172 = ~The people of Gullykin don't appreciate those who would pilfer our hard-earned possessions. Give yourselves up, robbers!~
 
 //#7416
-@10173 = ~Come on tiny, give us another chance.  How 'bout I give you this 100 gold?~
+@10173 = ~Come on tiny, give us another chance. How 'bout I give you this 100 gold?~
 
 //#7417
 @10174 = ~Would 200 gold change your mind about this whole situation?~
 
 //#7418
-@10175 = ~As if you could take us, short stuff.  Come on and try your worst.~
+@10175 = ~As if you could take us, short stuff. Come on and try your worst.~
 
 //#7415
 @10176 = ~Sorry, we don't accept bribes.~
 
 //#7419
-@10177 = ~You being adventurers and all, the only thing you'd probably be interested in hearing about is the Firewine bridge ruins.  There's supposed to be treasure there, but a tribe of kobolds protects it.  Hey friend, it would be doing a great service to us if you cleared out those kobolds.  They've been causing a lot of trouble lately.~
+@10177 = ~You being adventurers and all, the only thing you'd probably be interested in hearing about is the Firewine Bridge ruins. There's supposed to be treasure there, but a tribe of kobolds protects it. Hey, friend, it would be doing a great service to us if you cleared out those kobolds. They've been causing a lot of trouble lately.~
 
 //#4924
-@10178 = ~Nasty times are comin' I reckon.~ [%tutu_var%HALFL01]
+@10178 = ~Nasty times are comin', I reckon.~ [%tutu_var%HALFL01]
 
 
 //#9408
@@ -426,10 +426,10 @@ Not Usable By:
 @10182 = ~~ [%tutu_var%STORE06]
 
 //#4882
-@10183 = ~Business has been poor, what with the iron shortage and all.~ [%tutu_var%STORE02]
+@10183 = ~Eh, business has been poor, what with the iron shortage and all.~ [%tutu_var%STORE02]
 
 //#4883
-@10184 = ~The customer is always right.~ [%tutu_var%STORE03]
+@10184 = ~The customers are always right.~ [%tutu_var%STORE03]
 
 //#4884
 @10185 = ~My prices are the best south of Waterdeep.~ [%tutu_var%STORE04]
@@ -443,23 +443,23 @@ Not Usable By:
 
 //vial/ubvial.d
 //#19438
-@20000 = ~I successfully cleared the Nashkel mines, and was rewarded handsomely for my efforts. 900 gold from Berrun Ghastkill, and the thanks of the entire town. Iron will slowly filter back to the coast now, though transporting it is still a treacherous business. The bandits on the roads will have to be dealt with.~
+@20000 = ~I successfully cleared the Nashkel mines and was rewarded handsomely for my efforts: 900 gold from Berrun Ghastkill and the thanks of the entire town. Iron will slowly filter back to the coast now, though transporting it is still a treacherous business. The bandits on the roads will have to be dealt with.~
 
 //#5837
-@20001 = ~Taerom is making a suit of plate mail out of my ankheg shell.  It will be ready within a tenday.~
+@20001 = ~In ten days, Taerom "Thunderhammer" of Beregost should have my new ankheg-shell plate mail ready for me. I will look ferocious in it!~
 
 //#187
-@20165 = ~It's not ready as yet.  Perhaps another day or two.  Be patient; quality takes time.~
+@20165 = ~It's not ready yet. Perhaps another day or two. Be patient; quality takes time.~
 
 //#15267
 @20166 = ~Could you show us what you have for sale?~
 
 //kagain/rKAGAIJ.d
 //#16782
-@20002 = ~Well, look what I found; this is the body of Silvershield's son.  Guess I'm in a lot of trouble now.  With him dead, I'll be a wanted dwarf. From what I've gathered so far, all of you are after them damnable bandits.  Well, since my reputation is now mud how 'bout I help you gain revenge on those scum bags.~
+@20002 = ~Well, look what I found. This is the body of Silvershield's son. Guess I'm in a lot of trouble now. With him dead, I'll be a wanted dwarf. From what I've gathered so far, all of you are after them damnable bandits. Well, since my reputation is now mud how 'bout I help you gain revenge on those scumbags?~
 
 //#16783
-@20003 = ~We don't want you around any more, so hit the road.~
+@20003 = ~We don't want you around anymore, so hit the road!~
 
 //#7045
 @20004 = ~Entar Silvershield's son was killed.~
@@ -469,14 +469,14 @@ Not Usable By:
 
 //albert/_ALBERT.d
 //#6500
-@20006 = ~RUFIE!!  Who's a fuzzy Rufie?  Whoooooo's a fuzzy little guy?  Thank you just ever so much!  I better take this lost little puppy home right away.  Here, take this.  It's another of his chew things, but we can get more where we're going.  Thanks again.~
+@20006 = ~RUFIE! Who's a fuzzy Rufie? Whooo's a fuzzy little guy? Thank you just ever so much! I better take this lost little puppy home right away. Here, take this. It's another of his chew things, but we can get more where we're going. Thanks again.~
 
 //#6509
-@20007 = ~I um... rescued "little" Rufie and returned him to the... child... named Albert.  I do not wish to know where they went.  With luck I will never find out.~
+@20007 = ~I, um... rescued "little" Rufie and returned him to the... child... named Albert. I do not wish to know where they went. With luck, I will never find out.~
 
 //scar/ubscar.d
 //#10649
-@20008 = ~Scar is waiting outside of the Flaming Fist barracks.  He wants to discuss the suspicions he has about the Iron Throne.~
+@20008 = ~Scar wants a word with me, something to do with the Iron Throne. I can find him outside the Flaming Fist barracks.~
 
 //quoningar/ubquon.d
 //#15528
@@ -486,10 +486,10 @@ Not Usable By:
 @20010 = ~It is hard for me to pursue my meditations in the bustle of this city. Could I ask your assistance in obtaining a potion of mind focusing?~
 
 //#15809
-@20011 = ~The priest Quoningar, apparently as unused to the city's endless bustle as myself, is looking for a potion of mind focusing. Without it, I doubt if he will ever finish his meditations...~
+@20011 = ~The priest Quoningar, apparently as unused to the city's endless bustle as I, is looking for a potion of mind focusing. Without it, I doubt if he will ever finish his meditations...~
 
 //#15538
-@20012 = ~Please, unless you have a potion of mind focusing, I must return to my near-futile meditations.~
+@20012 = ~Please, unless you have a potion of mind focusing, I must return to my near-futile motivations.~
 
 //#15539
 @20013 = ~For all its many brutalities, I am grateful to have found people such as yourselves to soften this city's rougher edges. You may call me Quoningar, if you will. Please, take this hammer of mine to remember me by when next you venture into battle.~
@@ -501,20 +501,20 @@ Not Usable By:
 @20015 = ~This city scares me, friend. Every day I stay here, I grow more concerned.~
 
 //#15542
-@20016 = ~I cannot bear this city but perhaps it would be more enjoyable without you around!~
+@20016 = ~I cannot bear this city, but perhaps it would be more enjoyable without you around!~
 
 //shilchen/ubshilo.d
 //#15182
 @20017 = ~I can smell the city on you.~
 
 //#15772
-@20018 = ~Shilo Chen, a ranger from the Wood of Sharp Teeth, is currently seeking help in Baldur's Gate. A group of ogre-magi is killing off the wildlife in the wood's southwest corner. He has asked me to go there and see what I can do. If he can find any other willing adventurers, he'll send them as reinforcements.~
+@20018 = ~Shilo Chen, a ranger from the Wood of Sharp Teeth, is currently seeking help in Baldur's Gate. A group of ogre magi is killing off the wildlife in the wood's southwest corner. He has asked me to go there and see what I can do. If he can find any other willing adventurers, he'll send them as reinforcements.~
 
 //#15184
 @20019 = ~How can you stay in this foul city when the forest is in danger?~
 
 //#15185
-@20020 = ~The hawks tell me that you cleared away the ogre-magi all by yourselves. I am impressed with your valor. Here, let me give you these fine gloves as a token of my appreciation. They are so supple that you can feel even the downiest feather as it brushes against your palm.~
+@20020 = ~The hawks tell me that you cleared away the ogre magi all by yourselves. I am impressed with your valor. Here, let me give you these fine gloves as a token of my appreciation. They are so supple that you can feel even the downiest feather as it brushes against your palm.~
 
 //#15186
 @20021 = ~You city dwellers are all the same!~
@@ -524,11 +524,11 @@ Not Usable By:
 @20022 = ~Please be quiet. I'm trying to study.~
 
 //#15178
-@20023 = ~I hate tests...~
+@20023 = ~I hate tests.~
 
 //creature/ubcre.d
 //#19945
-@20024 = ~Oh, hello <CHARNAME>. I have not seen you for quite some time. You have certainly picked a busy time to visit us. I wish I could chat about old times, but I must prepare the meeting rooms for our... guests.~
+@20024 = ~Oh, hello <CHARNAME>, I have not seen you for quite some time. You have certainly picked a busy time to visit us. I wish I could chat about old times, but I must prepare the meeting rooms for our... guests.~
 
 //#19946
 @20025 = ~It was rare that guests would make use of those rooms. Who is here?~
@@ -537,7 +537,7 @@ Not Usable By:
 @20026 = ~You seem hesitant, Feldane. Are these people not to be trusted?~
 
 //#19948
-@20027 = ~Oh, I should say little. They made a very generous donation to the keep; some rare texts with value well in excess of the normal entry fee. I see no harm in telling you though. After all, you once called this place home. They claim to be merchants, though their organizations dabble in much more, I am sure. The three leaders of the Iron Throne are meeting with representatives of the Knights of the Shield.~
+@20027 = ~Oh, I should say little. They made a very generous donation to the keep: Some rare texts with value well in excess of the normal entry fee. I see no harm in telling you, though. After all, you once called this place home. They claim to be merchants, though their organizations dabble in much more, I am sure. The two leaders of the Iron Throne are meeting with representatives of the Knights of the Shield.~
 
 //#19950
 @20028 = ~What do you know of these two groups?~
@@ -546,7 +546,7 @@ Not Usable By:
 @20029 = ~Interesting, but none of my concern. Thank you for your time.~
 
 //#19957
-@20030 = ~It is not for me to say, but I should keep an eye on your purse strings while here. Three are from the Iron Throne, supposedly the leaders themselves. The others are from Amn. I believe they are representing the Knights of the Shield. They both claim this trip is to discuss future trading relations, because the Iron Throne has grown so much as of late. I know very little of the economics of Baldur's Gate, but I would hazard a guess that both are more than mere businessmen.~
+@20030 = ~It is not for me to say, but I should keep an eye on your purse strings while here. Two are from the Iron Throne, supposedly the leaders themselves. The others are from Amn. I believe they are representing the Knights of the Shield. They both claim this trip is to discuss future trading relations, because the Iron Throne has grown so much of late. I know very little of the economics of Baldur's Gate, but I would hazard a guess that both are more than mere businessmen.~
 
 //#19962
 @20031 = ~What do you mean by that? I have had "dealings" with the Iron Throne, so I would like to know what they are up to.~
@@ -555,7 +555,7 @@ Not Usable By:
 @20032 = ~Well, thanks for the warning. I shall be wary.~
 
 //#19964
-@20033 = ~Not much at all, but rumors are never in short supply. I hear that these meetings are more like negotiations, because the Iron Throne threatens to move into Knights of the Shield territory. I overheard one of them, accidentally of course, and I think the Iron Throne has gained a lot of power from the iron shortage. Appropriate, don't you think? They are meeting here because they consider it neutral ground and relatively safe. I doubt Keeper of the Tomes Ulraunt would have allowed their entry had he known who they are, though they have done nothing wrong here.~
+@20033 = ~Not much at all, but rumors are never in short supply. I hear that these meetings are more like negotiations, because the Iron Throne threatens to move into Knights of the Shield territory. I overheard one of them, accidentally of course, and I think the Iron Throne has gained a lot of power from the iron shortage. Appropriate, don't you think? They are meeting here because they consider it neutral ground and relatively safe. I doubt Keeper of the Tomes Ulraunt would have allowed their entry, had he known who they are, though they have done nothing wrong here.~
 
 //#19967
 @20034 = ~Thank you for the information. I should be going.~
@@ -567,7 +567,7 @@ Not Usable By:
 @20036 = ~Not a problem. We must get together sometime while you are here.~
 
 //#19966
-@20037 = ~Oh, I hope you haven't thrown your lot in with them. I hear they are such unsavory types. More into power than commerce. I overheard them talking, and they have actually profited from the iron crisis! That's why the Knights of the Shield are here; the Iron Throne has gained a lot of influence lately and threatens to take over certain Amnish interests. I am surprised that Keeper of the Tomes Ulraunt allowed them entry, but they have done nothing wrong that can be proved.~
+@20037 = ~Oh, I hope you haven't thrown your lot in with them. I hear they are such unsavory types. More into power than commerce. I overheard them talking, and they have actually profited from the iron crisis! That's why the Knights of the Shield are here: the Iron Throne has gained a lot of influence lately and threatens to take over certain Amnian interests. I am surprised Keeper of the Tomes Ulraunt allowed them entry, but they have done nothing wrong that can be proved.~
 
 //#19970
 @20038 = ~Thanks for the information. I'll just be off to my room now.~
@@ -576,7 +576,7 @@ Not Usable By:
 @20039 = ~I don't suppose you know which rooms they will be using?~
 
 //#19969
-@20040 = ~I have said too much already. I certainly don't want to seem like a gossip. I should go. Please; we should speak some other time before you go.~
+@20040 = ~I have said too much already. I certainly don't want to seem like a gossip. I should go. Please, we should speak some other time before you go.~
 
 //#15543
 @20041 = ~Damn basilisks! I think it was heading east but I've had enough of it for one day, thank you very much. If you're into hunting the stupid things down, though, don't let me stop you.~
@@ -585,13 +585,13 @@ Not Usable By:
 @20042 = ~I have rescued the ranger Corianna from where she stood, petrified by a basilisk's gaze. Although Corianna has no desire to meet the creature a second time, she has been kind enough to inform me that it was heading east...~
 
 //#15544
-@20043 = ~I'm so glad you found me out here. Basilisks aren't exactly the thing to face alone. I'm going home but if you want to hunt it down, make sure you take this potion of mirrored eyes along with you. It's lair can't be too far from here.~
+@20043 = ~I'm so glad you found me out here. Basilisks aren't exactly the thing to face alone. I'm going home but if you want to hunt it down, make sure you take this potion of mirrored eyes along with you. Its lair can't be too far from here.~
 
 //#15811
 @20044 = ~I have rescued the ranger Corianna from where she stood, petrified by a basilisk's gaze. Although she has no desire to meet the creature a second time, Corianna has been kind enough to give me a potion of mirrored eyes and inform me that it was heading east...~
 
 //#15545
-@20045 = ~Oh no you don't... If you want to face that basilisk, that's your business. I'm heading home.~
+@20045 = ~Oh no, you don't... If you want to face that basilisk, that's your business. I'm heading home.~
 
 //#15546
 @20046 = ~Must you? Look, it's been a long day for me... Oh, damn you after all!~
@@ -600,7 +600,7 @@ Not Usable By:
 @20047 = ~I'm just a simple farmer, I don't know much.~
 
 //#3991
-@20048 = ~Hey!  Who are you?~
+@20048 = ~Hey! Who are you?~
 
 //#3993
 @20049 = ~We're mercenaries.~
@@ -615,26 +615,26 @@ Not Usable By:
 @20052 = ~A farmer who we met in the Wood of Sharp Teeth has told us that someone has been dumping waste in the forest.~
 
 //#4004
-@20053 = ~Ya, and if you're a normal bunch of travelers, then I'm Elminster himself.  Sarcastic bastards.~
+@20053 = ~Ya, and if you're a normal bunch of travelers, then I'm Elminster himself. Sarcastic bastards.~
 
 //#9036
-@20054 = ~Leave me be.  I got nothin' for you.~
+@20054 = ~Leave me be. I got nothin' for you.~
 
 //#106
-@20055 = ~Stop a second there young'n, 'cause I heard what you gone and done for old Brun.  It made me ashamed that I didn't try to help him myself.  Good to know there's still someone willin' to go the extra mile, even for a stranger.  I want you to have this heirloom of mine, because of what you did.  Now my heirs didn't loom so big, but you ought to get more use out o' it than my mantle does.  Folks like you make a jaded old man think there's still decent people out there.~
+@20055 = ~Stop a second there, young 'un, 'cuz I heard what you gone and done for old Brun. It made me ashamed that I didn't try to help him myself. Good to know there's still someone willin' to go the extra mile, even for a stranger. I want you to have this heirloom of mine because of what you did. Now my heirs didn't loom so big, but you ought to get more use out o' it than my mantle does. Folks like you make a jaded old man think there's still decent people out there.~
 
 //#5833
-@20056 = ~A man named Wilton gave me a reward for helping that old farmer, Brun.  What goes around, comes around I guess.~
+@20056 = ~A man named Wilton gave me a reward for helping that old farmer, Brun. What goes around, comes around I guess.~
 
 //#6432
-@20057 = ~Only thing exciting happenin' 'round these parts are the bandit raids.  I'll warn ya now friend: I wouldn't try to mess with them bandits; I hear they're a real nasty bunch.~
+@20057 = ~Only thing exciting happenin' 'round these parts are the bandit raids. I'll warn ya now friend: I wouldn't try to mess with them bandits, I hear they're a real nasty bunch.~
 
 //dialogues/u!minor1.d
 //#5096
-@20058 = ~You there!  I need some money and some healing; if you know what's good for you, you'll give it to me!~
+@20058 = ~You there! I need some money and some healing. If you know what's good for you, you'll give it to me!~
 
 //#5097
-@20059 = ~You got to be kidding?!  You're one hobgoblin, why should we do anything but kill you?~
+@20059 = ~You got to be kidding?! You're one hobgoblin, why should we do anything but kill you?~
 
 //#5098
 @20060 = ~Here, take 25 gold.~
@@ -646,22 +646,22 @@ Not Usable By:
 @20062 = ~Good job, you weakling excuses for life.~
 
 //#5101
-@20063 = ~I'm a member of the Chill, the mercenary band.  If you want all of my friends breathing down your neck, then just keep on pissing me off.~
+@20063 = ~I'm a member of the Chill, the mercenary band. If you want all of my friends breathing down your neck, then just keep on pissing me off.~
 
 //#5102
-@20064 = ~Okay!  Okay.  Here's 25 gold, now just leave us be.~
+@20064 = ~Okay, okay! Here's 25 gold, now just leave us be.~
 
 //#5103
-@20065 = ~Well.....right now, there's just one of you, so I think we'll take our chances.~
+@20065 = ~Well, right now there's just one of you, so I think we'll take our chances.~
 
 //#5104
-@20066 = ~You're threatening us!?  I think you've got things mixed up, you degenerate, foul smelling beast.  Before we end your miserable life you should do some begging, and maybe throw in some information about these Black Talons.~
+@20066 = ~You're threatening us?! I think you've got things mixed up, you degenerate, foul-smelling beast. Before we end your miserable life you should do some begging, and maybe throw in some information about these Chills.~
 
 //#5105
 @20067 = ~You'll regret your decision.~
 
 //#5106
-@20068 = ~Wait!  Hey, I'm sorry, just don't kill me...please.  I'll tell you about the Black Talons.  ~
+@20068 = ~Wait! Hey, I'm sorry, just don't kill me, please. I'll tell you about the Chill.~
 
 //#5107
 @20069 = ~Go on.~
@@ -670,28 +670,28 @@ Not Usable By:
 @20070 = ~You can shut up and get out of here.~
 
 //#5109
-@20071 = ~The Black Talons are a group of mercenaries, they're part of the group who's been raiding the merchant caravans.  I just got lost in a raid a couple days back, some of the Flaming Fist had been doggin' my steps.  There, I've told you what ya wanted to hear.~
+@20071 = ~The Chill are a group of mercenaries, they're part of the group who's been raiding the merchant caravans. I just got lost in a raid a couple days back, some of the Flaming Fist had been doggin' my steps. There, I've told you what ya wanted to hear.~
 
 //#7013
-@20072 = ~A hobgoblin told us that he worked for a mercenary company known as the Chill.  The Chill has been raiding the Coast Way road.~
+@20072 = ~A hobgoblin told us that he worked for a mercenary company known as the Chill. The Chill has been raiding the Coast Way road.~
 
 //#6529
-@20073 = ~Hello again, my young adventurers.  I see you have the needed component.  Well, shall we see if our young man regains his life, or if he'll eventually be someone's festhall dinner?~
+@20073 = ~Hello again, my young adventurers. I see you have the needed component. Well, shall we see if our young man regains his life, or if he'll eventually be someone's festhall dinner?~
 
 //#7012
-@20074 = ~A hobgoblin we charmed told us that he worked for a mercenary band known as the Chill.  According to him the Chill work for the Zhents.~
+@20074 = ~A hobgoblin we charmed told us that he worked for a mercenary band known as the Chill. According to him the Chill work for the Zhents.~
 
 //#6260
 @20075 = ~Leave me be!~
 
 //#208
-@20076 = ~Your hearts are brave!  We rip them out and show you!  Chill, attack!~
+@20076 = ~Your hearts are brave! We rip them out and show you! Chill, attack!~
 
 //#6426
-@20077 = ~I have encountered a demihuman group of bandits!  Iron and gold were what they wished. ~
+@20077 = ~I have encountered a demihuman group of bandits! Iron and gold were what they wished.~
 
 //#1761
-@20078 = ~So...do you have any other questions?~
+@20078 = ~So, do you have any other questions?~
 
 //#1762
 @20079 = ~Who are the Shadow Thieves?~
@@ -706,73 +706,73 @@ Not Usable By:
 @20082 = ~That's enough questions for now.~
 
 //#11885
-@20083 = ~IthNal cOR dan osa KOZAH! Rrrackne dall'a osa KOZAH!  The idol.......will find the idol.........~
+@20083 = ~IthNal cOR dan osa KOZAH! Rrrackne dall'a osa KOZAH! The idol... will find the idol...~
 
 //#14375
-@20084 = ~If thou dost no longer desire my companionship, then so be it.  I shall not force myself where I am not wanted.~
+@20084 = ~If thou dost no longer desire my companionship, then so be it. I shall not force myself where I am not wanted.~
 
 //#16741
-@20085 = ~(Their desires lack vision and originality.)  If simple coin be all you wish, perhaps I would rather travel with more "adventurous" adventurers.  Take what I have, and remember your choice when it is long since spent.~
+@20085 = ~(Their desires lack vision and originality.) If simple coin be all you wish, perhaps I would rather travel with more "adventurous" adventurers. Take what I have, and remember your choice when it is long since spent.~
 
 //#16172
-@20086 = ~Really?  So be it.  I'm sure I'll be somewhere around here if you wish my company.  I'll try not to make you look to hard.~
+@20086 = ~Really? So be it. I'm sure I'll be somewhere around here if you wish my company. I'll try not to make you look too hard.~
 
 //#6135
-@20087 = ~Being a good friend of yours and all, I can tell you this:  there's a bunch a mean dog like creatures killin' me men in the mine.  Ya gotta stop 'em!~
+@20087 = ~Being a good friend of yours and all, I can tell you this: There's a bunch a mean dog-like creatures killin' me men in the mine. Ya gotta stop 'em!~
 
 //#16558
-@20088 = ~I charmed the foreman of the Nashkel mine.  He claimed there were "dog-like" creatures causing trouble below.~
+@20088 = ~I charmed the foreman of the Nashkel mines. He claimed there were "dog-like" creatures causing trouble below.~
 
 //#14736
 @20089 = ~Ah well, I suppose it will give me the opportunity to work on this new ballad I've been thinking of... I bet you'll never guess who the protagonists are!~
 
 //#7592
-@20090 = ~Well, if that's true, yer still not supposed ta be in the basements.  Git outta here.~
+@20090 = ~Well, if that's true, ye're still not supposed ta be in the basements. Git outta here.~
 
 //#16688
-@20091 = ~I openly question your judgement, but it is your decision to make.  You do show some measure of leadership, and I should be glad to assist you in the future.  Come Khalid, we must depart for now.~
+@20091 = ~I openly question your judgment, but it is your decision to make. You do show some measure of leadership, and I should be glad to assist you in the future. Come Khalid, we must depart for now.~
 
 //#15351
 @20092 = ~Uh, very well. I'll be on my way, then... Uh... Carry on...~
 
 //#15352
-@20093 = ~Okay, not quite anything. Here's 50 gp, though. Will that be... uh, alright?~
+@20093 = ~Okay, not quite anything. Here's 50 gold pieces, though. Will that be... uh, all right?~
 
 //#15353
-@20094 = ~Why, thank you, chap. That old lumbering oaf could have had me there if it weren't for young lumbering oafs like yourselves. Here, if you're going to be wandering around these mountains for a while, you might need a better pair of boots. As for me, you couldn't pay me to stick around in this place.~
+@20094 = ~Why, thank you. That old lumbering oaf could have had me there if it weren't for young lumbering oafs like yourselves. Here, if you're going to be wandering around these mountains for a while, you may need a better pair of boots. As for me, you couldn't pay me to stick around in this place.~
 
 //#5710
-@20095 = ~Thank you!  It's located just to the west of Beregost.  Thalantyr lives in a large manor there.  I'll just nestle in your pack until we get there.~
+@20095 = ~Thank you! It's located just to the west of Beregost. Thalantyr lives in a large manor there. I'll just nestle in your pack until we get there.~
 
 //#5728
-@20096 = ~I have met an unfortunate wizard in the shape of a chicken.  I am to take him to see Thalantyr, just to the west of Beregost.~
+@20096 = ~I have met an unfortunate wizard in the shape of a chicken. I am to take him to see Thalantyr, just to the west of Beregost.~
 
 //#8468
-@20097 = ~Here is the 500 gold that I owe you.  I feel that I owe you more for your gallant acts.  Here, take this gem, this should be satisfactory payment.~
+@20097 = ~Here is the 500 gold that I owe you. I feel that I owe you more for your gallant acts. Here, take this gem, this should be satisfactory payment.~
 
 //#8469
-@20098 = ~I wish I had the money I had promised you, but I have only this 500 gold.   Here, take this gem, perhaps this will balance the inequity.~
+@20098 = ~I wish I had the money I had promised you, but I have only this 500 gold. Here, take this gem, perhaps this will balance the inequity.~
 
 //#15113
 @20099 = ~How do you like my new cloak?~
 
 //#1161
-@20100 = ~It's your choice which hits the ground first; your swords or your heads!  Be smart now and you'll all live to grow wise!~
+@20100 = ~It's your choice which hits the ground first: your swords or your heads! Be smart now, and you'll all live to grow wise!~
 
 //#1162
 @20101 = ~You'll not take us alive!~
 
 //#1163
-@20102 = ~We'll not fight you.  In fact, we want to join your group.~
+@20102 = ~We'll not fight you. In fact, we want to join your group.~
 
 //#1164
-@20103 = ~We don't want any trouble.  Take what you want and leave us be.~
+@20103 = ~We don't want any trouble. Take what you want and leave us be.~
 
 //#14740
-@20104 = ~Can I not stay with you, even a little longer? Our time together has been... quite enjoyable.  Ah well, perhaps we shall meet again.~
+@20104 = ~Can I not stay with you, even a little longer? Our time together has been... quite enjoyable. Ah well, perhaps we shall meet again.~
 
 //#505
-@20105 = ~I can't believe this, I'm beaten, by a man no less.  I guess I must keep my word.  I pledge my sword to your cause, however stupid it may be.~
+@20105 = ~I can't believe this. I'm beaten, by a man no less. I guess I must keep my word. I pledge my sword to your cause, however stupid it may be.~
 
 //#517
 @20106 = ~Actually, we don't need your assistance.~
@@ -781,122 +781,122 @@ Not Usable By:
 @20107 = ~Good, you had better prove your worth.~
 
 //#1994
-@20108 = ~Oh.  That could be interesting..  Yes, do that.~
+@20108 = ~Oh, that could be interesting... Yes, do that.~
 
 //#1995
 @20109 = ~Then you had best go now, for Droth is close by and this may get difficult for both of us.~
 
 //#1134
-@20110 = ~I guess you were right Jeb; ain't no wind in their sails!  Leave us be.  We'll fix our own problems.~
+@20110 = ~I guess you were right, Jebadoh; ain't no wind in their sails! Leave us be. We'll fix our own problems.~
 
 //#11215
-@20111 = ~You must! I stand before you, I block your path! I am an obstacle that holds you back! You will free...you will fight me!~
+@20111 = ~You must! I stand before you, I block your path! I am an obstacle that holds you back! You will free... you will fight me!~
 
 //#11216
-@20112 = ~If I must kill you to pass, then so be it. I do so forgiving you your transgressions against me. ~
+@20112 = ~If I must kill you to pass, then so be it. I do so forgiving you your transgressions against me.~
 
 //#11217
 @20113 = ~If you would throw your life away, then you are already dead. If that is your choice, then you do not need me.~
 
 //#13756
-@20114 = ~You have been very kind to me in this strange and lighted world. Perhaps you are right, though. The drow were meant to be a race apart... Take care of yourselves, alright?~
+@20114 = ~You have been very kind to me in this strange and lighted world. Perhaps you are right, though. The drow were meant to be a race apart... Take care of yourselves, all right?~
 
 //#6258
-@20115 = ~As you are such good friends, I should give you a gift.  Have this bit of gold, I won't be needing it for anything.~
+@20115 = ~As you are such good friends, I should give you a gift. Have this bit of gold, I won't be needing it for anything.~
 
 //#8146
-@20116 = ~I wish I could run away with you darling, but my husband can be such a jealous man.  I wouldn't want to arouse his wrath.  Take this ring, with which you may always remember me.~
+@20116 = ~I wish I could run away with you darling, but my husband can be such a jealous man. I wouldn't want to arouse his wrath. Take this ring, with which you may always remember me.~
 
 //#7926
-@20117 = ~I wish my Nanna would let me go out with you.  I wish, I wish....awwww, she'll never let me go.  Before you go, how 'bout I give you somethin' to help you out.  I know its really valuable, 'cause Nanna keeps it all locked up.  I kinda borrowed it for awhile, but now I want you to have it.  Here ya go.  Come back soon and tell me 'bout all your adventures.~
+@20117 = ~I wish my Nanna would let me go out with you. I wish, I wish... Aw, she'll never let me go. Before you go, how 'bout I give you somethin' to help you out. I know it's really valuable, 'cause Nanna keeps it all locked up. I kinda borrowed it for a while, but now I want you to have it. Here ya go. Come back soon and tell me 'bout all your adventures.~
 
 //#7912
-@20118 = ~I think it would be inhospitable of me not to aid you in your future adventures.  I have a little knick knack from the old days; something you might find of use.  Take this sling; it doesn't look to be much, but trust me it's come in handy more than once.~
+@20118 = ~I think it would be inhospitable of me not to aid you in your future adventures. I have a little knick-knack from the old days; something you might find of use. Take this sling; it doesn't look to be much, but trust me it's come in handy more than once.~
 
 //#8855
-@20119 = ~If you're my friend you'll let me get away from this place!  A ghoulish creature pursues me in my head.  I canna sleep a wink of restful sleep.  I didn't mean to steal from it's grave!  Well, maybe I did...but I'm still sorry!  please take it back to his lonely grave for me, friend.  Pal?~
+@20119 = ~If you're my friend, you'll let me get away from this place! A ghoulish creature pursues me in my head. I canna sleep a wink of restful sleep. I didn't mean to steal from its grave! Well, maybe I did... But I'm still sorry! Please take it back to his lonely grave for me, friend. Pal?~
 
 //#7661
-@20120 = ~Good fellow, why don't you take these 25 gold pieces and run along.  Have some fun.~
+@20120 = ~Good friend, why don't you take these 25 gold pieces and run along? Have some fun.~
 
 //#8420
-@20121 = ~You may call me Ithtyl, good friend.  I am glad to know one so lively and entertaining as you.  Why don't you head downstairs and enjoy yourself?  Take these 20 gold, so that you may afford whatever takes your fancy to buy.~
+@20121 = ~You may call me Ithtyl, good friend. I am glad to know one so lively and entertaining as you. Why don't you head downstairs and enjoy yourself? Take these 20 gold, so that you may afford whatever takes your fancy to buy.~
 
 //#6296
-@20122 = ~Well, hey friends.  Here, have the antidote.  I didn't want it anyway.~
+@20122 = ~Hey, friends. Here, have the antidote. I didn't want it anyway.~
 
 //#7511
-@20123 = ~I've been doing rather badly in my gambling, so how 'bout I give you this gold piece ta start off yer night.  Hopefully Tymora's luck will be with you.~
+@20123 = ~I've been doing rather badly in my gambling, so how 'bout I give you this gold piece ta start off yer night. Hopefully Tymora's luck will be with you.~
 
 //#8802
-@20124 = ~I don't leave my home much, so there's little I know about what goes on within the city.  Why don't you take this gold piece and enjoy yourself at the market square; there's all sorts of things to do there.~
+@20124 = ~I don't leave my home much, so there's little I know about what goes on within the city. Why don't you take this gold piece and enjoy yourself at the market square? There's all sorts of things to do there.~
 
 //#8115
-@20125 = ~I have the sudden urge to give you a gift, friend.  Take this little bauble, it's a childhood momento.  I think its fitting that you, my closest companion, keep it for me.~
+@20125 = ~I have the sudden urge to give you a gift, friend. Take this little bauble, it's a childhood memento. I think it's fitting that you, my closest companion, keep it for me.~
 
 //#7491
-@20126 = ~Here friend; if you don't have the money, take this 10 gold.~
+@20126 = ~Here, friend! If you don't have the money, take this 10 gold.~
 
 //#7780
-@20127 = ~It is obvious what you need my good friend.  Living in this library fortress must leave you with little in the way of monetary funds.  Here, take this 20 gold;  It is but a trifle to me, but I'm sure it'll put you on the right track.~
+@20127 = ~It is obvious what you need, my good friend. Living in this library fortress must leave you with little in the way of monetary funds. Here, take this 20 gold; it is but a trifle to me, but I'm sure it'll put you on the right track.~
 
 //#7994
-@20128 = ~Being a good friend, I'd like to entrust you with this valuable ring.  It's an heirloom, and I'm afraid of it being pilfered.  With all the thieves and brigands loitering in the wilderness, it's not to much to assume that there might be more here at the inn.~
+@20128 = ~Being a good friend, I'd like to entrust you with this valuable ring. It's an heirloom, and I'm afraid of it being pilfered. With all the thieves and brigands loitering in the wilderness, it's not too much to assume that there might be more here at the inn.~
 
 //#8034
-@20129 = ~Friend, I'd like you to take this armor with you when you depart.  I would be terribly upset if you were to come to harm while out adventuring.~
+@20129 = ~Friend, I'd like you to take this armor with you when you depart. I would be terribly upset if you were to come to harm while out adventuring.~
 
 //dialogues/u!totscminor.d
 //#21708
-@20130 = ~Step right up folks and HEAR the tale of dread placed before thee.  Join with me as I, adventurer extraordinaire Ike Cascadion Vendar, lead yet another group of brave souls through the very SEAT of danger in the Realms.  To Durlag's Tower we shall go, and witness the perils that have taken the lives of hundreds of courageous men and women.  SEE the horror of the treacherous traps; FEEL the presence of the long languishing dead; MARVEL at the wondrous wealth buried below!  NOT for the weak of spirit as I will NOT be held accountable for any heart failure during OR after our expedition!  Step up, step up! One at a TIME!~
+@20130 = ~Step right up folks and HEAR the tale of dread placed before thee. Join with me as I, adventurer extraordinaire Ike Cascadion Vendar, lead yet another group of brave souls through the very SEAT of danger in the Realms. To Durlag's Tower we shall go, and witness the perils that have taken the lives of hundreds of courageous men and women. SEE the horror of the treacherous traps! FEEL the presence of the long languishing dead! MARVEL at the wondrous wealth buried below! NOT for the weak of spirit as I will NOT be held accountable for any heart failure during OR after our expedition! Step up, step up! One at a TIME!~
 
 //#21709
-@20131 = ~Ahh, good people of noble blood who would throw down the gauntlet in the face of chance!  Come see the lengths a man must go to protect what's his.  A special package deal of 60 gold for your entire group, not that you would need a discount.~
+@20131 = ~Ahh, good people of noble blood who would throw down the gauntlet in the face of chance! Come see the lengths a man must go to protect what's his. A special package deal of 60 gold for your entire group, not that you would need a discount.~
 
 //#21715
-@20132 = ~You have a deal sir!  When are we to leave?~
+@20132 = ~You have a deal, sir! When are we to leave?~
 
 //#21716
-@20133 = ~'Tis too much gold for my purse.~
+@20133 = ~ 'Tis too much gold for my purse.~
 
 //#21717
 @20134 = ~I'm not interested in your "adventuring" tours, huckster.~
 
 //#21710
-@20135 = ~Hello to you my friends!  Come see the lengths the wealthy must go, just  to protect their fortunes.  'Tis a life I'd wish on no-one.  Just 80 gold for your entire group, and I don't do this for everyone.~
+@20135 = ~Hello to you, my friends! Come see the lengths the wealthy must go, just to protect their fortunes. 'Tis a life I'd wish on no one. Just 80 gold for your entire group, and I don't do this for everyone.~
 
 //#21711
-@20136 = ~All right, step up you louts!  100 gold for the lot of ye, but you stand in the back!  And if I catch you pinching a single purse I'll have you run through.  'Tis a dangerous place to which we go, and I've "lost" people before.~
+@20136 = ~All right, step up, you louts! 100 gold for the lot of ye, but you stand in the back! And if I catch you pinching a single purse, I'll have you run through. 'Tis a dangerous place to which we go, and I've "lost" people before.~
 
 //#21712
 @20137 = ~I have no other price, so take it or leave it.~
 
 //#21726
-@20138 = ~Fine, ye unreasonable skinflint!  Keep yer blasted tour!~
+@20138 = ~Fine, ye unreasonable skinflint! Keep yer blasted tour!~
 
 //#21713
-@20139 = ~Is it your purse, or yer nerve that's lacking?  Well I'll be here daily if ye fill either.  Shoo, I've paying customers.~
+@20139 = ~Is it your purse or yer nerve that's lacking? Well, I'll be here daily if ye fill either. Shoo, I've paying customers.~
 
 //#23531
-@20140 = ~I met a blustering lout offering tours to Durlag's Tower. Seems he aims to make a tourist attraction out of the deathtrap. I decided not to take him up on his offer, but he will be available if I change my mind.~
+@20140 = ~I met a blustering lout offering tours of Durlag's Tower. It seems he aims to make a tourist attraction out of the deathtrap. I decided not to take him up on his offer, but he will be available if I change my mind.~
 
 //#21714
-@20141 = ~Yes, the tower scares away the best of us.  I'll be leaving here daily, if you find your spine.~
+@20141 = ~Yes, the tower scares away the best of us. I'll be leaving here daily, if you find your spine.~
 
 //#21727
-@20142 = ~That will fill my quota for this trip.  We leave forthwith!  Remember to kiss your loved ones good-by, for you may never...see them...AGAIN! Meet me at the base of the tower! You would surely be KILLED without me, but fear not! Only I can enter where others FEAR to TREAD!~
+@20142 = ~That will fill my quota for this trip. We leave forthwith! Remember to kiss your loved ones goodbye, for you may never... see them... AGAIN! Meet me at the base of the tower! You would surely be KILLED without me, but fear not! Only I can enter where others FEAR to TREAD!~
 
 //#23532
-@20143 = ~I met a hukster by the name of Ike who was offering tours of Durlag's Tower. Seems the venerable deathtrap has become a bit of a tourist attraction. I agreed to the tour, so I should meet Ike by the tower as soon as possible. I'm sure it will be safe. They wouldn't walk people through if there was still a danger.~
+@20143 = ~I met a huckster by the name of Ike who was offering tours of Durlag's Tower. It seems the venerable deathtrap has become a bit of a tourist attraction. I agreed to the tour, so I should meet Ike by the tower as soon as possible. I'm sure it will be safe... they wouldn't walk people through if there was still a danger.~
 
 //#22049
 @20144 = ~New deckhands be yer tale? Har, I've got more deckhands than days o' the year and I sure as salt didn't go beggin' about fer more... Come, mates, we've found ourselves a spot o' trouble that could using a cleanin'!~
 
 //#23519
-@20145 = ~I tried to talk my way past Captain Tollar Kieres so I could find those blasted sea charts, but he would have none of it. Ahh well, either sneaking or fighting I'll leave no witnesses.~
+@20145 = ~I tried to talk my way past Captain Tollar Kieres so I could find those blasted sea charts, but he would have none of it. Ah well, either sneaking or fighting I'll leave no witnesses.~
 
 //#22050
-@20146 = ~Direct you to me sea charts, is that what yer askin'? Ho, not only be it the worst of all bad luck to let another see it 'afore ye sail, but it's also flyin' in the face of ev'ry scrap o' League policy on the matter! Quick, mates, let's garner us some corpses fer Umberlee, should the weather falls sour...~
+@20146 = ~Direct you to me sea charts, is that what ye're askin'? Ho, not only be it the worst of all bad luck to let another see it afore ye sail, but it's also flyin' in the face of ev'ry scrap o' League policy on the matter! Quick, mates, let's garner us some corpses fer Umberlee, should the weather fall sour...~
 
 //#21498
 @20147 = ~Believe him not! He does not belong! He is as mad as the beasts and almost as dangerous.~
@@ -920,20 +920,20 @@ Not Usable By:
 @20153 = ~Everything worked out for the best then. You survived and built this fine home. I will continue to help you.~
 
 //#21519
-@20154 = ~What do you mean by not being able to 'belong'.~
+@20154 = ~What do you mean by not being able to "belong"?~
 
 //stores/ubstores.d -> not used anymore. do not translate @20155 to @20163
 //#15365
-@20155 = ~I'll not turn away new faces when business has been so slow lately.  If you've need of anything, don't hesitate to ask.~
+@20155 = ~I'll not turn away new faces when business has been so slow lately. If you've need of anything, don't hesitate to ask.~
 
 //#15366
-@20156 = ~It's been a rough journey to get here.  What do you have to ease our spirits?~
+@20156 = ~It's been a rough journey to get here. What do you have to ease our spirits?~
 
 //#15367
 @20157 = ~I need nothing at the moment, though your offer is appreciated.~
 
 //#3629
-@20158 = ~Hey there, you look like the adventurin' type.  So, do ya need some new equipment?  My prices might seem a little steep, but with the iron shortage and all that, there ain't nothin'  I can do about it.~
+@20158 = ~Hey there, you look like the adventurin' type. So, do ya need some new equipment? My prices might seem a little steep, but with the iron shortage and all that, there ain't nothin' I can do about it.~
 
 //#15290
 @20159 = ~Show us your wares.~
@@ -942,10 +942,10 @@ Not Usable By:
 @20160 = ~We don't need anything today.~
 
 //#6298
-@20161 = ~I've heard a lot of stuff lately.  Iron seems to be hard to come by, what with the bandits and the faulty Nashkel ore.  Trouble seems to be brewing between Baldur's Gate and Amn.  I wouldn't be too surprised if a war broke out between the two.~
+@20161 = ~I've heard a lot of stuff lately. Iron seems to be hard to come by, what with the bandits and the faulty Nashkel ore. Trouble seems to be brewing between Baldur's Gate and Amn. I wouldn't be too surprised if a war broke out between the two.~
 
 //#7082
-@20162 = ~When I charmed a merchant, he said some vague things about iron shortages, bandits and war.~
+@20162 = ~When I charmed a merchant, he said some vague things about iron shortages, bandits, and war.~
 
 //#9165
 @20163 = ~I wouldn't trust you as far as I can spit!~
@@ -959,7 +959,7 @@ Not Usable By:
 @20167 = ~No problem, though you are missing quite the little adventure.~
 
 //#902
-@20168 = ~Aren't stout enough of heart.  I can understand, not all of us are.~
+@20168 = ~Aren't stout enough of heart? I can understand, not all of us are.~
 
 //dialogues/u!ch7.d
 //#1754
@@ -969,33 +969,33 @@ Not Usable By:
 @20170 = ~What sickness has Eltan come down with?~
 
 //#11196
-@20171 = ~There is...another. Atop the Iron Throne base is a woman whose...whose influence is a poison in Sarevok's soul. If she were removed I know he would listen to reason, to my pleading. Cythandria is her name, and she holds much power in this matter. She seeks Sarevok's favor as well, though she is content if he self-destructs, so long as she profits in the deed. I...I must go. He cannot know I have helped you.~
+@20171 = ~There is... another. Atop the Iron Throne base is a woman whose... whose influence is a poison in Sarevok's soul. If she were removed I know he would listen to reason, to my pleading. Cythandria is her name, and she holds much power in this matter. She seeks Sarevok's favor as well, though she is content if he self-destructs, so long as she profits in the deed. I... I must go. He cannot know I have helped you.~
 
 //#1780
 @20172 = ~Do you know who killed Scar?~
 
 //#20666
-@20173 = ~We must travel to the Undercellars and find Slythe and Krystin, two of Sarevok's assassins.  Eltan thinks that Sarevok may want to murder the Grand Dukes Belt and Liia.  We must make sure that this doesn't happen.  We're also to take Eltan to the Harbormaster's building which is located on the east side of the harbor.~
+@20173 = ~We must travel to the Undercellar and find Slythe and Krystin, two of Sarevok's assassins. Eltan thinks that Sarevok may want to murder the Grand Dukes Belt and Liia. We must make sure that this doesn't happen. We're also to take Eltan to the Harbor Master's building, which is located on the east side of the harbor.~
 
 //sharteel/rangelo.d
 //#2144
-@20174 = ~You aren't the commander of the Flaming Fist; that title belongs to Duke Eltan, someone who deserves the title.  You're a pretender, and a rather ugly and smelly one at that.  A lobotomized gibberling would make a better leader than you.~
+@20174 = ~You aren't the commander of the Flaming Fist; that title belongs to Duke Eltan, someone who deserves it. You're a pretender, and a rather ugly and smelly one at that. A lobotomized gibberling would make a better leader than you.~
 
 //#6537 (add 'Afoul of the law')
 @20175 = ~Afoul of the law.
 
-For some reason Duke Eltan is no longer the commander of the Flaming Fist.  A man named Angelo now claims that position.~
+For some reason Duke Eltan is no longer the commander of the Flaming Fist. A man named Angelo now claims that position.~
 
 //BGT/Tutu SOLVED/UNSOLVED + Headers - DiaryEntries for Quoningar, added by Jarl
 
 //@20011 with header:
 @20176 = ~Quietness in a bustling city.
 
-The priest Quoningar, apparently as unused to the city's endless bustle as myself, is looking for a potion of mind focusing. Without it, I doubt if he will ever finish his meditations...~
+The priest Quoningar, apparently as unused to the city's endless bustle as I, is looking for a potion of mind focusing. Without it, I doubt if he will ever finish his meditations...~
 
 @20177 = ~Quietness in a bustling city.
 
-Upon bringing Quoningar the potion he needed for his meditations, we were graciously rewarded.  At least someone in this bustling city can find some quiet and inner peace.~
+Upon bringing Quoningar the potion he needed for his meditations, we were graciously rewarded. At least someone in this bustling city can find some quiet and inner peace.~
 
 
 //BGT/Tutu SOLVED/UNSOLVED + Headers - DiaryEntries for Shilo Chen, added by Jarl
@@ -1003,11 +1003,11 @@ Upon bringing Quoningar the potion he needed for his meditations, we were gracio
 //@20018 with header:
 @20178 = ~Shilo Chen and the ogre-magi.
 
-Shilo Chen, a ranger from the Wood of Sharp Teeth, is currently seeking help in Baldur's Gate. A group of ogre-magi is killing off the wildlife in the wood's southwest corner. He has asked me to go there and see what I can do. If he can find any other willing adventurers, he'll send them as reinforcements.~
+Shilo Chen, a ranger from the Wood of Sharp Teeth, is currently seeking help in Baldur's Gate. A group of ogre magi is killing off the wildlife in the wood's southwest corner. He has asked me to go there and see what I can do. If he can find any other willing adventurers, he'll send them as reinforcements.~
 
 @20179 = ~Shilo Chen and the ogre-magi.
 
-Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarded us handsomely.~
+Having defeated the ogre magi in the Wood of Sharp Teeth, Shilo Chen has rewarded us handsomely.~
 
 
 
@@ -1016,21 +1016,21 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 
 //setup-bg1ub.tp2
 //#7810
-@30000 = ~Hello hello hello.  It's Bunsens home you have entered, and welcome you are!  Please, rest your somewhat less-than-hairy feet by my hearth.~
+@30000 = ~Hello hello hello! It's Bunsen's home you have entered, and welcome you are! Please, rest your somewhat less-than-hairy feet by my hearth.~
 
 //#7819
-@30001 = ~Are you always this courteous to strangers that walk into your home?  It hardly seems safe to me.~
+@30001 = ~Are you always this courteous to strangers that walk into your home? It hardly seems safe to me.~
 
 //#7821
-@30002 = ~Spare me your smiles, shorty.  I merely came in to see if you had anything worth taking.  You are foolish to leave your burrow unlocked.~
+@30002 = ~Spare me your smiles, shorty. I merely came in to see if you had anything worth taking. You are foolish to leave your burrow unlocked.~
 
 //#7823
-@30003 = ~My apologies, but the door was unlocked and I thought your burrow deserted.  I did not mean to intrude upon your home.~
+@30003 = ~My apologies, but the door was unlocked and I thought your burrow deserted. I did not mean to intrude upon your home.~
 
 
 //Tutu/D -- all files
 //#8330
-@40000 = ~Welcome travelers.  I trust you will keep your weapons with your wits and no provoke trouble while here?  It's the best thing for everyone.  You'll find that the majority of our customers are well equipped to defend themselves and, if need be, the bar as well.  Is there anything I can do for you?~
+@40000 = ~Welcome, travelers. I trust you will keep your weapons with your wits and not provoke trouble while here? It's the best thing for everyone. You'll find that the majority of our customers are well equipped to defend themselves and, if need be, the bar as well. Is there anything I can do for you?~
 
 //#15072
 @40001 = ~Yes.~
@@ -1039,28 +1039,28 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40002 = ~No.~
 
 //#8331
-@40003 = ~Welcome ye are, at least 'till ye canna pay your tab.  Beware you well the dark corners of the 'song, as the guard turn a blind eye to much that happens here.  Is there anything I can do for you?~
+@40003 = ~Welcome ye are, at least till ye canna pay your tab. Beware you well the dark corners of the 'song, as the guard turn a blind eye to much that happens here. Is there anything I can do for you?~
 
 //#8332
-@40004 = ~Well well, look what washed up outta the bilge.  I'll warn you now, do what e'er you wish in here, but draw the attention of the city guard upon us and you'll be floatin' out to sea with nary a boat, let alone sail.~
+@40004 = ~Well, well, look what washed up outta the bilge. I'll warn you now, do what e'er you wish in here, but draw the attention of the city guard upon us and you'll be floatin' out to sea with nary a boat, let alone sail.~
 
 //#8380
-@40005 = ~Good eve.  The Helm and Cloak stands ready to serve thee in a swift and relaxing manor.  I trust you are aware that our provender is a touch more pricey than some of the "lesser respected" inns about town?  This is true, though I have always maintained that you get what you pay for. Is there anything I can do for you?~
+@40005 = ~Good eve. The Helm and Cloak stands ready to serve thee in a swift and relaxing manner. I trust you are aware that our provender is a touch more pricey than some of the "lesser respected" inns about town? This is true, though I have always maintained that you get what you pay for. Is there anything I can do for you?~
 
 //#8381
-@40006 = ~Hmm?  Hello there.  Welcome to the Helm and Cloak.  Whilst here you may expect superior service and excellent quality...errr...you can PAY can't you?  As long as this is so we shall be on excellent terms.   Please try not to make trouble while here.  we are well protected and all a ruckus will serve to do is disturb the other guests.  Is there anything I can do for you?~
+@40006 = ~Hmm? Hello there. Welcome to the Helm and Cloak. Whilst here you may expect superior service and excellent quality. Er, you can PAY, can't you? As long as this is so we shall be on excellent terms. Please try not to make trouble while here. We are well protected and all a ruckus will serve to do is disturb the other guests. Is there anything I can do for you?~
 
 //#8382
-@40007 = ~Oh, no no  no.  I rather think someone of your...standards will not be comfortable in the Helm and Cloak at all.  We pride ourselves on our somewhat expensive but relaxed fare, whereas you seem to be the sort who should enjoy the atmosphere of say....the Blushing Mermaid.  I am sorry to say it, but I did not mean that as a compliment.  Best that you go now, for surely it will only mean trouble if you stay.  Is there anything I can do for you?~
+@40007 = ~Oh, no, no, no. I rather think someone of your standards will not be comfortable in the Helm and Cloak at all. We pride ourselves on our somewhat expensive but relaxed fare, whereas you seem to be the sort who should enjoy the atmosphere of, say, the Blushing Mermaid. I am sorry to say it, but I did not mean that as a compliment. Best that you go now, for surely it will only mean trouble if you stay. Is there anything I can do for you?~
 
 //#14220
 @40008 = ~Shoo! Them aren't yer chickens! Erlin! Erlin, someone's after the chickens!~
 
 //#14360
-@40009 = ~I know your secrets, you old hag. Maybe there's something down your gullet, as well!~
+@40009 = ~I know your secrets, you old hag. Maybe there's something down your gullet as well!~
 
 //#14361
-@40010 = ~This is between us and the chickens, Ma'am, and I'm going to ask real nicely that you stay out of it.~
+@40010 = ~This is between us and the chickens, ma'am, and I'm going to ask real nicely that you stay out of it.~
 
 //#14223
 @40011 = ~What do you want?~
@@ -1081,7 +1081,7 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40016 = ~They aren't for sale.~
 
 //#14229
-@40017 = ~Why, that's Jeb's place. Nothing good ever came of that scroundrel. Not since his wife died, at any rate.~
+@40017 = ~Why, that's Jeb's place. Nothing good ever came of that scoundrel. Not since his wife died, at any rate.~
 
 //#14230
 @40018 = ~Please leave us be. There've been too many deaths here as it is.~
@@ -1093,34 +1093,34 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40020 = ~Get off my farm, you louts!~
 
 //#1517
-@40021 = ~Who are you?  What are you doing in my estate?  Guards!  We have intruders.~
+@40021 = ~Who are you? What are you doing in my estate? Guards! We have intruders.~
 
 //#6136
-@40022 = ~I am Entar Silvershield, one of the Grand Dukes of Baldur's Gate!  I can tell you many things friend.  Perhaps you'd care to hear about the Iron Throne.  They're a new mercantile organization that have set up in Baldur's Gate.  Most of us are rather concerned over some of the Iron Thrones actions, but they have promised to supply us with iron, a resource that has been very rare as of late.  We are suspicious of Amn, our neighbor to the south.  We think that Amn has allied with the Zhentarim in an attempt to annex our glorious city.  However, Scar feels that the evidence against Amn was too easy to come by, almost as if someone were trying to frame Amn to cause friction between our two nations.  Since you are my best friend, I should tell you, I have a very beautiful daughter.  Her name is Skie, and she is now of marriageable age.~
+@40022 = ~I am Entar Silvershield, one of the Grand Dukes of Baldur's Gate. I can tell you many things, friend. Perhaps you'd care to hear about the Iron Throne. They're a new mercantile organization that have set up in Baldur's Gate. Most of us are rather concerned over some of the Iron Throne's actions, but they have promised to supply us with iron, a resource that has been very rare of late. We are suspicious of Amn, our neighbor to the south. We think that Amn has allied with the Zhentarim in an attempt to annex our glorious city. However, Scar feels that the evidence against Amn was too easy to come by, almost as if someone were trying to frame Amn to cause friction between our two nations. Since you are my best friend, I should tell you I have a very beautiful daughter. Her name is Skie, and she is now of marriageable age.~
 
 //#6598
-@40023 = ~When we charmed Entar Silvershield he told us quite a bit.  He said that the Iron Throne had recently set up in Baldur's Gate and was offering to sell iron to the city.  The Grand Dukes are worried about an invasion from Amn, and are thus taking the Iron Throne's offer seriously, despite some reservations about their intentions.~
+@40023 = ~When we charmed Entar Silvershield, he told us quite a bit. He said that the Iron Throne had recently set up in Baldur's Gate and was offering to sell iron to the city. The Grand Dukes are worried about an invasion from Amn and are thus taking the Iron Throne's offer seriously, despite some reservations about their intentions.~
 
 //#8983
 @40024 = ~My doors are no longer open to the likes of you!~
 
 //#14221
-@40025 = ~Leave 'em be, Enna. They know what they're lookin' for and there ain't no room on this farm for secrets, anyways.~
+@40025 = ~Leave 'em be, Enna. They know what they're lookin' for, and there ain't no room on this farm for secrets anyways.~
 
 //#14222
-@40026 = ~By Beshaba's curse, what have you done to my Enna!~
+@40026 = ~By Beshaba's curse, what have you done to my Enna?!~
 
 //#14232
 @40027 = ~This is private land. We don't encourage no pokin' around.~
 
 //#14233
-@40028 = ~If yer lookin' for trouble, you found it, stranger. Talos! Myrkul! Malar! Sic 'em boys!~
+@40028 = ~If ye're lookin' for trouble, you found it, stranger. Talos! Myrkul! Malar! Sic 'em, boys!~
 
 //#14234
 @40029 = ~You look like you could use a chicken. Here, friend, this one's on the house.~
 
 //#14235
-@40030 = ~You don't hear well, do you... I said this is private land.~
+@40030 = ~You don't hear well, do you...? I said this is private land.~
 
 //#1464
 @40031 = ~Jaheira and Khalid are the only decent customers we've had for some time.~
@@ -1132,133 +1132,133 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40033 = ~Back off, I've work to do.~
 
 //#6940
-@40034 = ~I don't go prying into the customers' business.  Bad for tips, it is.~
+@40034 = ~I don't go prying into the customers' business. Bad for tips, it is.~
 
 //#9020
 @40035 = ~Get away from me!~
 
 //#8179
-@40036 = ~Who might you be?  No, don't answer because I really don't care.  You have gone and tracked up my kitchen with nary an invitation, nor even an unlocked door!  You better get going, or the only thing worse than the guard coming to take you off, will be if they don't get there in time to save you from me!  Out! ~
+@40036 = ~Who might you be? No, don't answer because I really don't care. You have gone and tracked up my kitchen with nary an invitation, nor even an unlocked door! You better get going, or the only thing worse than the guard coming to take you off, will be if they don't get there in time to save you from me! Out!~
 
 //#8180
 @40037 = ~Shoo!~
 
 //#8181
-@40038 = ~Don't make me break mine foot off in your nethers!  Get going!~
+@40038 = ~Don't make me break mine foot off in your nethers! Get going!~
 
 //#8182
-@40039 = ~If you want I could give you an entire course on cooking.  But knowing you adventurer types, you won't be around long enough.~
+@40039 = ~If you want, I could give you an entire course on cooking. But knowing you adventurer types, you won't be around long enough.~
 
 //#9061
 @40040 = ~You're not welcome here!~
 
 //#8192
-@40041 = ~I'm waiting for daddy to come home an' tuck me in.  He's sure to be here soon.  He can't stay at the mines forever....can he?~
+@40041 = ~I'm waiting for Daddy to come home an' tuck me in. He's sure to be here soon. He can't stay at the mines forever. Can he?~
 
 //#8193
-@40042 = ~The reason he's not coming home is because he's dead, kiddo.  He's mulch, deceased, expired, kicked the bucket, bought the farm, croaked.~
+@40042 = ~The reason he's not coming home is because he's dead, kiddo. He's mulch, deceased, expired, kicked the bucket, bought the farm, croaked.~
 
 //#8194
-@40043 = ~Your dad will probably be coming back soon.  Don't you worry.~
+@40043 = ~Your dad will probably be coming back soon. Don't you worry.~
 
 //#8195
-@40044 = ~I really hope so.  I miss him so much.~
+@40044 = ~I really hope so. I miss him so much.~
 
 //#8196
-@40045 = ~Waaaahhh!!!  My daddy's dead!~
+@40045 = ~Waaaahhh! My daddy's dead!~
 
 //#8197
 @40046 = ~I'm your best friend.~
 
 //#9027
-@40047 = ~Leave me alone!  You're mean!~
+@40047 = ~Leave me alone! You're mean!~
 
 //#7843
-@40048 = ~Oh, welcome to you.  A pity my son is not here to meet you.  It would be most exiting for him.~
+@40048 = ~Oh, welcome to you. A pity my son is not here to meet you. It would be most exciting for him.~
 
 //#7853
 @40049 = ~Why would he find interest in us, little mother?~
 
 //#7855
-@40050 = ~Keep the little whelp away from me.  I have no wish to spend my days babysitting your little urchin.~
+@40050 = ~Keep the little whelp away from me. I have no wish to spend my days babysitting your little urchin.~
 
 //#7857
 @40051 = ~It is best that he is not here while I rob his home of its possessions.~
 
 //#7858
-@40052 = ~I fear I would have little time to spend in his company.  I only meant to stop by for a moment.~
+@40052 = ~I fear I would have little time to spend in his company. I only meant to stop by for a moment.~
 
 //#7844
-@40053 = ~Oh, it is most exciting for any halfling to meet those with the spirit of Littleman in them.  You might be a tad.....eccentric for leaving the comforts of a well stocked hearth, but I'm sure your escapades are exhilarating...if you are in to that sort of thing.  Please come back anytime you wish.~
+@40053 = ~Oh, it is most exciting for any halfling to meet those with the spirit of Littleman in them. You might be a tad... eccentric for leaving the comforts of a well stocked hearth, but I'm sure your escapades are exhilarating... if you are in to that sort of thing. Please come back anytime you wish.~
 
 //#7845
-@40054 = ~It's an oddity among many of our young folk that they see the essence of the great wandered Littleman in the deeds of people like you.  I personally see little appeal in leaving hearth and home.  Stay as you will, but try not to encourage the children too much.~
+@40054 = ~It's an oddity among many of our young folk that they see the essence of the great wandered Littleman in the deeds of people like you. I personally see little appeal in leaving hearth and home. Stay as you will, but try not to encourage the children too much.~
 
 //#7846
-@40055 = ~Hmmph!  And I should not like to see him exposed to such manners!  It's certain you do not spend much time amongst the small folk.  None who knew our ways would be so rude.  You are welcome to return when you learn a little civility.~
+@40055 = ~Hmph! And I should not like to see him exposed to such manners! It's certain you do not spend much time amongst the small folk. None who knew our ways would be so rude. You are welcome to return when you learn a little civility.~
 
 //#7847
-@40056 = ~A shame, really.  It would be good to see how a life sleeping on a cold dungeon floor makes one irritable and unsociable.  I pity you in many ways.  Stay as you will, but at least try to be nice.~
+@40056 = ~A shame, really. It would be good to see how a life sleeping on a cold dungeon floor makes one irritable and unsociable. I pity you in many ways. Stay as you will, but at least try to be nice.~
 
 //#7848
-@40057 = ~Goodness!  How can you be such a boldfaced scoundrel?  Such an intrusion is unheard of in the company halflings prefer to keep.  The theft alone is but a mere inconvenience, but your inconsiderate attitude....it's almost more than a civil woman can bear.  Please leave me.~
+@40057 = ~Goodness! How can you be such a boldfaced scoundrel? Such an intrusion is unheard of in the company halflings prefer to keep. The theft alone is but a mere inconvenience, but your inconsiderate attitude... It's almost more than a civil woman can bear. Please leave me.~
 
 //#7849
-@40058 = ~Such is the pull of the wandering way.  It's a desire we have all heard much of through the tales of Littleman, though I must confess I cannot truly understand it.  It's so much more comfortable spending the nights with family by the hearth.  Fare thee well on your journeys.~
+@40058 = ~Such is the pull of the wandering way. It's a desire we have all heard much of through the tales of Littleman, though I must confess I cannot truly understand it. It's so much more comfortable spending the nights with family by the hearth. Fare thee well on your journeys.~
 
 //#7850
-@40059 = ~Such is the madness of Littleman.  What compels sane people to wander about the wood away from family is beyond me.  Good luck to you all the same though.~
+@40059 = ~Such is the madness of Littleman. What compels sane people to wander about the wood away from family is beyond me. Good luck to you all the same though.~
 
 //#7851
-@40060 = ~Welcome again.  I would have thought you had moved on by now.  It's a pleasure you have not, though.~
+@40060 = ~Welcome again. I would have thought you had moved on by now. It's a pleasure you have not, though.~
 
 //#7852
-@40061 = ~I am surprised to see you again.  Has not the wanderers call seized your logic once again?  By Dallillia, I hope none of the children follow when you go.~
+@40061 = ~I am surprised to see you again. Has not the wanderer's call seized your logic once again? By Dallillia, I hope none of the children follow when you go.~
 
 //#7860
-@40062 = ~Perhaps you'd care to stay a little while and relate some tales.  I've always been fond of heroic stories, though I'd never wish to live one.~
+@40062 = ~Perhaps you'd care to stay a little while and relate some tales. I've always been fond of heroic stories, though I'd never wish to live one.~
 
 //#9293
 @40063 = ~You've outstayed your welcome!~
 
 //#7810
-@40064 = ~Hello hello hello.  It's Bunsens home you have entered, and welcome you are!  Please, rest your somewhat less-than-hairy feet by my hearth.~
+@40064 = ~Hello hello hello! It's Bunsen's home you have entered, and welcome you are! Please, rest your somewhat less-than-hairy feet by my hearth.~
 
 //#7819
-@40065 = ~Are you always this courteous to strangers that walk into your home?  It hardly seems safe to me.~
+@40065 = ~Are you always this courteous to strangers that walk into your home? It hardly seems safe to me.~
 
 //#7821
-@40066 = ~Spare me your smiles, shorty.  I merely came in to see if you had anything worth taking.  You are foolish to leave your burrow unlocked.~
+@40066 = ~Spare me your smiles, shorty. I merely came in to see if you had anything worth taking. You are foolish to leave your burrow unlocked.~
 
 //#7823
-@40067 = ~My apologies, but the door was unlocked and I thought your burrow deserted.  I did not mean to intrude upon your home.~
+@40067 = ~My apologies, but the door was unlocked and I thought your burrow deserted. I did not mean to intrude upon your home.~
 
 //#7811
-@40068 = ~You have been away from the small folk for some time if you have to ask that question.  It is the highest of virtues to extend familial amenity to friends we have not met yet.  You are welcome to stay as you wish, in the spirit of Cyrrollalee and all she stands for.~
+@40068 = ~You have been away from the small folk for some time if you have to ask that question. It is the highest of virtues to extend familial amenity to friends we have not met yet. You are welcome to stay as you wish, in the spirit of Cyrrollalee and all she stands for.~
 
 //#7812
-@40069 = ~Such manners!  I can think of no other in the history of this village to have insulted me so!  As much as Cyrrollalee demands welcome hospitality, at least a small measure of gratitude is expected in return.  You are not welcome in my burrow, and I think you will find the same is true among my neighbors if you continue to act as such.~
+@40069 = ~Such manners! I can think of no other in the history of this village to have insulted me so! As much as Cyrrollalee demands welcome hospitality, at least a small measure of gratitude is expected in return. You are not welcome in my burrow, and I think you will find the same is true among my neighbors if you continue to act as such.~
 
 //#7813
-@40070 = ~Deserted?  I think you will find that even if an owner were to stray from his hearth for years, friends and neighbors would keep his home warm and welcoming for his return.  If a stranger felt the need to use it in the meantime, I could see no one with cause to object.  No need for you to apologize.  If my home seemed deserted that simply means that I must strive all the more to present a welcoming friendly face.  Cyrrollalee would settle for nothing less.~
+@40070 = ~Deserted? I think you will find that even if an owner were to stray from his hearth for years, friends and neighbors would keep his home warm and welcoming for his return. If a stranger felt the need to use it in the meantime, I could see no one with cause to object. No need for you to apologize. If my home seemed deserted, that simply means that I must strive all the more to present a welcoming friendly face. Cyrrollalee would settle for nothing less.~
 
 //#7814
-@40071 = ~I wager you will not find a member of the small folk who locks their doors against visitors, known or not.  It's common courtesy to extend welcome to whomever calls, regardless of their....demeanor.  You are welcome to stay a bit if you will....but it is rather late in the day.~
+@40071 = ~I wager you will not find a member of the small folk who locks their doors against visitors, known or not. It's common courtesy to extend welcome to whomever calls, regardless of their demeanor. You are welcome to stay a bit if you will, but it is rather late in the day.~
 
 //#7815
-@40072 = ~If I possessed something you required, I doubt you would need but ask.  Material goods are of little import to the small folk when compared to the value of a secure hearth.  Such a rude presentation will get you naught but glares however.  Do not tarry long in my home.  You are not welcome.~
+@40072 = ~If I possessed something you required, I doubt you would need but ask. Material goods are of little import to the small folk when compared to the value of a secure hearth. Such a rude presentation will get you naught but glares however. Do not tarry long in my home. You are not welcome.~
 
 //#7816
-@40073 = ~Any insult from your entry is forgiven by your courtesy.  The door is always open to friendly folk, regardless of their....parentage.  Stay a while if you wish.~
+@40073 = ~Any insult from your entry is forgiven by your courtesy. The door is always open to friendly folk, regardless of their... parentage. Stay a while if you wish.~
 
 //#7817
-@40074 = ~Hello again.  A pleasure as it was before.~
+@40074 = ~Hello again. A pleasure as it was before.~
 
 //#7818
-@40075 = ~I see you have returned.  I trust you will stay no longer than last we met?~
+@40075 = ~I see you have returned. I trust you will stay no longer than last we met?~
 
 //#7826
-@40076 = ~Well friend, why don't you join me by the hearth; I have an extra pipe that you could use.  I have a feeling though, that you adventuring types never have time for relaxation.~
+@40076 = ~Well, friend, why don't you join me by the hearth? I have an extra pipe that you could use. I have a feeling though, that you adventuring types never have time for relaxation.~
 
 //#9294
 @40077 = ~Not to be rude, but I'd rather you left immediately.~
@@ -1267,19 +1267,19 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40078 = ~Hmm, I prefer not to work with amateurs.~
 
 //#15108
-@40079 = ~There's a fat man by the name of Algernon staying at Feldepost's Inn in Beregost. He keeps a cloak with him in his room and I need you to get your larcenous hands on it and bring it back to me. I assure you that your reward will be handsome.  Try not to kill him, just filch it off his person.~
+@40079 = ~There's a fat man by the name of Algernon staying at Feldepost's Inn in Beregost. He keeps a cloak with him in his room and I need you to get your larcenous hands on it and bring it back to me. I assure you that your reward will be handsome. Try not to kill him, just filch it off his person.~
 
 //#15742
-@40080 = ~Pheirkas, a dwarven fighter in Baldur's Gate, has asked me to undertake what I can only call a covert mission. Staying at Feldepost's Inn in Beregost is the apparently obese Algernon. Kept on his person is a cloak that Pheirkas is interested in, shall we say, acquiring... The risk is great but the reward, I'm sure, is handsome.  Pheirkas can be found in the north west section of the city.~
+@40080 = ~Pheirkas, a dwarven fighter in Baldur's Gate, has asked me to undertake what I can only call a covert mission. Staying at Feldepost's Inn in Beregost is the apparently obese Algernon. Kept on his person is a cloak that Pheirkas is interested in, shall we say, acquiring... The risk is great but the reward, I'm sure, is handsome. Pheirkas can be found in the north west section of the city.~
 
 //#15109
 @40081 = ~Do you have Algernon's cloak with you?~
 
 //#15110
-@40082 = ~Ah, thank you so much. Here is 150 gp for your efforts.~
+@40082 = ~Ah, thank you so much. Here is 150 gold pieces for your efforts.~
 
 //#15111
-@40083 = ~Oh, I do like your handiwork. Here is 200 gp for the trouble.~
+@40083 = ~Oh, I do like your handiwork. Here is 200 gold pieces for the trouble.~
 
 //#15112
 @40084 = ~Damn, I was hoping you were more the passive-aggressive type.~
@@ -1288,7 +1288,7 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40085 = ~How do you like my new cloak?~
 
 //#9765
-@40086 = ~Hello hello. I don't suppose you would be interested in a few trinkets? A coin or two for my finley crafted wares? Ehh, I thought not. The iron shortage wanes, but even so, the customers do not come back quite yet. Who can blame them though? They are afraid because they see that the merchants are still without wares. Who believes that a shortage has ended, when they still cannot hold a new blade in their hands. I blame the Iron Throne, I do. Many others do as well.~
+@40086 = ~Hello hello. I don't suppose you would be interested in a few trinkets? A coin or two for my finely crafted wares? Ehh, I thought not. The iron shortage wanes, but even so, the customers do not come back quite yet. Who can blame them though? They are afraid because they see that the merchants are still without wares. Who believes that a shortage has ended, when they still cannot hold a new blade in their hands? I blame the Iron Throne, I do. Many others do as well.~
 
 //#9766
 @40087 = ~Why do you blame them? What have they done?~
@@ -1309,10 +1309,10 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40092 = ~The iron shortage wanes, but merchants are still without wares. It is the Iron Throne's instability which has prolonged the strife in the city, and that is why other merchants blame them. They were major importers, and without their help it will take much longer to reassure people that all is well. Since Sarevok has assumed control they have ceased most business transactions and frozen most of their assets. The fact that he is crippling a large merchant house seems inconsequential to him. He is disinterested, and seems likely to sacrifice it to fund the re-arming of Baldur's Gate, and thus his bid to become a Grand Duke. I cannot imagine sane businessmen following such directives. Something is very odd at the Iron Throne building indeed.~
 
 //#9779
-@40093 = ~Nothing direct, I suppose, though the impact is still harsh. Since Sarevok has assumed control they have ceased most business transactions and frozen most of their assets. They were major importers, and without their active help it will be much longer before the average citizen feels that the crisis is over. It would seem that Sarevok is going to use the Iron Throne to fuel his harsh stance on Amn, and thus his bid for the position of Grand Duke. The fact that he is crippling a large merchant house seems inconsequential to him. I cannot imagine sane businessmen following such directives. Something is very odd at the Iron Throne building indeed.~
+@40093 = ~Nothing direct, I suppose, though the impact is still harsh. Since Sarevok assumed control, they have ceased most business transactions and frozen most of their assets. They were major importers, and without their active help, it will be much longer before the average citizen feels that the crisis is over. It would seem that Sarevok is going to use the Iron Throne to fuel his harsh stance on Amn and thus his bid for the position of Grand Duke. The fact that he is crippling a large merchant house seems inconsequential to him. I cannot imagine sane businessmen following such directives. Something is very odd at the Iron Throne building indeed.~
 
 //#3661
-@40094 = ~Business has been really bad, what with all the troubles with bandits along the coast way.~
+@40094 = ~Business has been really bad, what with all the troubles with bandits along the Coast Way.~
 
 //#15288
 @40095 = ~Show us what you have to sell.~
@@ -1321,19 +1321,19 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40096 = ~We have no interest in buying anything right now.~
 
 //#3691
-@40097 = ~I'm one bad ass merchant.  You better not mess with me.  I"M SERIOUS!!  When I give you a price you buy it, none of that bartering crap.  DO you get ME?!!!~
+@40097 = ~I'm one bad ass merchant. You better not mess with me. I'M SERIOUS! When I give you a price you buy it, none of that bartering crap. DO you get ME?!~
 
 //#6297
-@40098 = ~I've heard a lot of stuff lately.  Iron seems to be hard to come by, what with the bandits and the faulty Nashkel ore.  Trouble seems to be brewing between Baldur's Gate and Amn.  I wouldn't be too surprised if a war broke out between the two.~
+@40098 = ~I've heard a lot of stuff lately. Iron seems to be hard to come by, what with the bandits and the faulty Nashkel ore. Trouble seems to be brewing between Baldur's Gate and Amn. I wouldn't be too surprised if a war broke out between the two.~
 
 //#7082
-@40099 = ~When I charmed a merchant, he said some vague things about iron shortages, bandits and war.~
+@40099 = ~When I charmed a merchant, he said some vague things about iron shortages, bandits, and war.~
 
 //#9166
 @40100 = ~I wouldn't trust you as far as I can spit!~
 
 //#8323
-@40101 = ~I know the Sturgeon be a damn sight cheaper than the Helm and Cloak, but I dinna think I would be sharing a room!  Out ye get!  I was here first!~
+@40101 = ~I know the Sturgeon be a damn sight cheaper than the Helm and Cloak, but I dinna think I would be sharing a room! Out ye get! I was here first!~
 
 //#8324
 @40102 = ~Share my room as long as ya like, I love the extra company.~
@@ -1342,46 +1342,46 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40103 = ~I'll box your ears if you step an inch closer!~
 
 //#8348
-@40104 = ~Out o' me face, fool!  I don't need your nose sniffin' about me business!~
+@40104 = ~Out o' me face, fool! I don't need your nose sniffin' about me business!~
 
 //#8349
-@40105 = ~I doubt you'll get much in the way of conversation from anyone, what with The Lady not singin'.  If that voice don't come back there are gonna be some men o' the deeps that'll never be the same.     ~
+@40105 = ~I doubt you'll get much in the way of conversation from anyone, what with The Lady not singin'. If that voice don't come back there are gonna be some men o' the deeps that'll never be the same.~
 
 //#8350
 @40106 = ~Put a cork in that blasted bard before I done plug his hole with my boot!~
 
 //#8351
-@40107 = ~I'd rather listen to the blasted silence left by the Lady than your caterwauling!  Don't make me say it again!~
+@40107 = ~I'd rather listen to the blasted silence left by the Lady than your caterwauling! Don't make me say it again!~
 
 //#8373
-@40108 = ~Hey bud, we should drop by the Undercellar and check out the fest girls.  How 'bout it?~
+@40108 = ~Hey, bud, we should drop by the Undercellar and check out the fest girls. How 'bout it?~
 
 //#8799
-@40109 = ~I've nothing of value here.  Please leave my home as it is.~
+@40109 = ~I've nothing of value here. Please leave my home as it is.~
 
 //#8800
-@40110 = ~The guards will ensure you leave!  Do I call them, or do you leave now?~
+@40110 = ~The guards will ensure you leave! Do I call them, or do you leave now?~
 
 //#8801
-@40111 = ~Guards!  Thieves!  Murderers!~
+@40111 = ~Guards! Thieves! Murderers!~
 
 //#8802
-@40112 = ~I don't leave my home much, so there's little I know about what goes on within the city.  Why don't you take this gold piece and enjoy yourself at the market square; there's all sorts of things to do there.~
+@40112 = ~I don't leave my home much, so there's little I know about what goes on within the city. Why don't you take this gold piece and enjoy yourself at the market square? There's all sorts of things to do there.~
 
 //#9173
-@40113 = ~Leave me!  You've outstayed your welcome!~
+@40113 = ~Leave me! You've outstayed your welcome!~
 
 //#8228
-@40114 = ~Oooo, cheeky!  Watching is extra, sweetie.~
+@40114 = ~Oooo, cheeky! Watching is extra, sweetie.~
 
 //#9105
-@40115 = ~He insists on calling me "Britannia."  Whatever gets you through the night, I guess.~
+@40115 = ~He insists on calling me "Britannia." Whatever gets you through the night, I guess.~
 
 //#3520
-@40116 = ~Hello there.  I'm sorry but I can't help you right now, I have many studies to finish.~
+@40116 = ~Hello there. I'm sorry but I can't help you right now, I have many studies to finish.~
 
 //#3524
-@40117 = ~Perhaps you didn't hear me the first time, but you see, I need my privacy.  Could you PLEASE leave.~
+@40117 = ~Perhaps you didn't hear me the first time, but you see, I need my privacy. Could you PLEASE leave?~
 
 //#6370
 @40118 = ~I'm just a humble reader, there is little that I can tell you about the world outside of Candlekeep.~
@@ -1390,70 +1390,70 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40119 = ~I'll not speak a word after what you did!~
 
 //#14135
-@40120 = ~Take your business elsewhere!  I need nothing from the likes of you!~
+@40120 = ~Take your business elsewhere! I need nothing from the likes of you!~
 
 //#14138
-@40121 = ~Business been a little slow in the "Gate" lately.  Good to see fresh faces in town.~
+@40121 = ~Business been a little slow in the "Gate" lately. Good to see fresh faces in town.~
 
 //#14139
-@40122 = ~You think the "Gate" is busy now?  She's a ghost town compared to before the iron shortage.~
+@40122 = ~You think the "Gate" is busy now? She's a ghost town compared to before the iron shortage.~
 
 //#14140
 @40123 = ~It don't matter what you need, you'll find it in Baldur's Gate.~
 
 //#14141
-@40124 = ~Have I seen you 'round here before?  Not too many new faces come through, what with the troubles lately.~
+@40124 = ~Have I seen you 'round here before? Not too many new faces come through, what with the troubles lately.~
 
 //#14142
-@40125 = ~A pity you couldn't have seen Baldur's Gate before the current troubles arrived.  The amount of commerce was staggering.~
+@40125 = ~A pity you couldn't have seen Baldur's Gate before the current troubles arrived. The amount of commerce was staggering.~
 
 //#7927
-@40126 = ~By the gods of health and hearth, it's good to see the Friendly Arm again!  Can anyone here imagine a better sight than these hallowed halls looming before you, when you've had bandits at your backside all the way from Baldur's Gate?~
+@40126 = ~By the gods of health and hearth, it's good to see the Friendly Arm again! Can anyone here imagine a better sight than these hallowed halls looming before you, when you've had bandits at your backside all the way from Baldur's Gate?~
 
 //#7936
-@40127 = ~You sound most relieved to have made it here.  How treacherous was your passage?~
+@40127 = ~You sound most relieved to have made it here. How treacherous was your passage?~
 
 //#7938
-@40128 = ~Put a cork in it, you blustering fool!  I care not a whit for the tale of your passage~
+@40128 = ~Put a cork in it, you blustering fool! I care not a whit for the tale of your passage.~
 
 //#7940
-@40129 = ~An ale for this weary traveler!  Best that we put something in front of his mouth if we are ever to shut him up.~
+@40129 = ~An ale for this weary traveler! Best that we put something in front of his mouth if we are ever to shut him up.~
 
 //#7928
-@40130 = ~Treacherous?  Treacherous my friend?  Had the earth opened beneath my feet and spewed forth all the vermin infesting all the nine hells it could not have been more treacherous.  Banditry at all sides and I had naught but my feet, and how fast they moved, to protect me.  The singular thought that kept me on my path?  This shining beacon; this plane of joy; this well priced mead hall; call it what you will, but the Friendly Arm is home to me.  Bentley!  A mead on the house for the good advertising I give you, my friend!~
+@40130 = ~Treacherous? Treacherous, my friend? Had the earth opened beneath my feet and spewed forth all the vermin infesting all the Nine Hells, it could not have been more treacherous. Banditry at all sides and I had naught but my feet, and how fast they moved to protect me. The singular thought that kept me on my path? This shining beacon; this plane of joy; this well-priced mead hall; call it what you will, but the Friendly Arm is home to me. Bentley! A mead on the house for the good advertising I give you, my friend!~
 
 //#7944
-@40131 = ~A traveler just out of Baldur's Gate has told us that the Coast Way is a dangerous road to travel.  Bandits assault all who travel its length.~
+@40131 = ~A traveler just out of Baldur's Gate has told us that the Coast Way is a dangerous road to travel. Bandits assault all who travel its length.~
 
 //#7929
-@40132 = ~Eh?  How treacherous?  Treacherous enough that I must forgo my usual blustering tale of the journey and push past you friend, lest I die of thirst before I reach the bar.  Beware the north if you be allergic to bandits!  Bentley!  A bottle of your second-cheapest wine!~
+@40132 = ~Eh? How treacherous? Treacherous enough that I must forgo my usual blustering tale of the journey and push past you friend, lest I die of thirst before I reach the bar. Beware the north if you be allergic to bandits! Bentley! A bottle of your second cheapest wine!~
 
 //#7930
-@40133 = ~And neither, my friend, do I care for your opinion.  If you cannot share in my joy and jubilation, then sit to the side and  I shall steer it around you.  I'll not step on your toes, but be sure you neither step on mine.~
+@40133 = ~And neither, my friend, do I care for your opinion. If you cannot share in my joy and jubilation, then sit to the side and I shall steer it around you. I'll not step on your toes, but be sure you neither step on mine.~
 
 //#7931
-@40134 = ~For shame!  A fellow traveler by the looks, but by the sound you spout you were made irritable by the journey.  While I celebrate that it is over, you fret that it happened.  Lighten up, as they say, and you'll sleep better at night.~
+@40134 = ~For shame! A fellow traveler by the looks, but by the sound you spout you were made irritable by the journey. While I celebrate that it is over, you fret that it happened. Lighten up, as they say, and you'll sleep better at night.~
 
 //#7932
-@40135 = ~That might have been funny if delivered by someone of better persuasion.  Alas, as it stands I am angered as though insulted.  One should never dwell on such things though.  I shall think no less of you, though I doubt I shall think any MORE of you either.  Fare thee well....somewhere else.~
+@40135 = ~That might have been funny if delivered by someone of better persuasion. Alas, as it stands I am angered as though insulted. One should never dwell on such things though. I shall think no less of you, though I doubt I shall think any MORE of you either. Fare thee well... somewhere else.~
 
 //#7933
-@40136 = ~HA!  You know me well, and yet we have never met.  No matter, for we are friends until death!  So swears Wade of no great distinction.  Best that you keep off the trade route north, lest a friendship-ending condition come to pass far sooner than later.~
+@40136 = ~HA! You know me well, and yet we have never met. No matter, for we are friends until death! So swears Wade of no great distinction. Best that you keep off the trade route north, lest a friendship-ending condition come to pass far sooner than later.~
 
 //#7934
-@40137 = ~And so I sesh to the guy, "but if that's you shister, where'sh my WIFE?"  HAW!  Oh sorry, did I just spit on you?  Oh, it's my friend back again!  Just trying to drink enough courage to head back on that dusty trail.  Perhaps I shall stay a touch longer, though; The sky is clear but my own head is cloudy.~
+@40137 = ~And so I sesh to the guy, "But if that's you shister, where'sh my WIFE?" HAW! Oh sorry, did I just spit on you? Oh, it's my friend back again! Just trying to drink enough courage to head back on that dusty trail. Perhaps I shall stay a touch longer, though; the sky is clear, but my own head is cloudy.~
 
 //#7935
-@40138 = ~Well how's that for a surprise kick in the head; the sourpuss hast returned to the land of merry-makers.  I trust you will be a little more amiable?~
+@40138 = ~Well, how's that for a surprise kick in the head? The sourpuss hast returned to the land of merrymakers. I trust you will be a little more amiable?~
 
 //#7942
-@40139 = ~Good friends!  Have a round on me!~
+@40139 = ~Good friends! Have a round on me!~
 
 //#5096
-@40140 = ~You there!  I need some money and some healing; if you know what's good for you, you'll give it to me!~
+@40140 = ~You there! I need some money and some healing. If you know what's good for you, you'll give it to me!~
 
 //#5097
-@40141 = ~You got to be kidding?!  You're one hobgoblin, why should we do anything but kill you?~
+@40141 = ~You got to be kidding?! You're one hobgoblin, why should we do anything but kill you?~
 
 //#5098
 @40142 = ~Here, take 25 gold.~
@@ -1465,22 +1465,22 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40144 = ~Good job, you weakling excuses for life.~
 
 //#5101
-@40145 = ~I'm a member of the Chill, the mercenary band.  If you want all of my friends breathing down your neck, then just keep on pissing me off.~
+@40145 = ~I'm a member of the Chill, the mercenary band. If you want all of my friends breathing down your neck, then just keep on pissing me off.~
 
 //#5102
-@40146 = ~Okay!  Okay.  Here's 25 gold, now just leave us be.~
+@40146 = ~Okay, okay! Here's 25 gold, now just leave us be.~
 
 //#5103
-@40147 = ~Well.....right now, there's just one of you, so I think we'll take our chances.~
+@40147 = ~Well, right now there's just one of you, so I think we'll take our chances.~
 
 //#5104
-@40148 = ~You're threatening us!?  I think you've got things mixed up, you degenerate, foul smelling beast.  Before we end your miserable life you should do some begging, and maybe throw in some information about these Black Talons.~
+@40148 = ~You're threatening us?! I think you've got things mixed up, you degenerate, foul-smelling beast. Before we end your miserable life you should do some begging, and maybe throw in some information about these Chills.~
 
 //#5105
 @40149 = ~You'll regret your decision.~
 
 //#5106
-@40150 = ~Wait!  Hey, I'm sorry, just don't kill me...please.  I'll tell you about the Black Talons.~
+@40150 = ~Wait! Hey, I'm sorry, just don't kill me, please. I'll tell you about the Chill.~
 
 //#5107
 @40151 = ~Go on.~
@@ -1489,25 +1489,25 @@ Having defeated the ogre-magi in the Wood of Sharp Teeth, Shilo Chen has rewarde
 @40152 = ~You can shut up and get out of here.~
 
 //#5109
-@40153 = ~The Black Talons are a group of mercenaries, they're part of the group who's been raiding the merchant caravans.  I just got lost in a raid a couple days back, some of the Flaming Fist had been doggin' my steps.  There, I've told you want ya wanted to hear.~
+@40153 = ~The Chill are a group of mercenaries, they're part of the group who's been raiding the merchant caravans. I just got lost in a raid a couple days back, some of the Flaming Fist had been doggin' my steps. There, I've told you what ya wanted to hear.~
 
 //#7013
-@40154 = ~A hobgoblin told us that he worked for a mercenary company known as the Chill.  The Chill has been raiding the Coast Way road.~
+@40154 = ~A hobgoblin told us that he worked for a mercenary company known as the Chill. The Chill has been raiding the Coast Way road.~
 
 //#6259
-@40155 = ~I'm just a minor member of the Chill.  The Chill is a mercenary group that's been hired by the Zhentarim to disrupt the iron being passed through this region.~
+@40155 = ~I'm just a minor member of the Chill. The Chill is a mercenary group that's been hired by the Zhentarim to disrupt the iron being passed through this region.~
 
 //#7012
-@40156 = ~A hobgoblin we charmed told us that he worked for a mercenary band known as the Chill.  According to him the Chill work for the Zhents.~
+@40156 = ~A hobgoblin we charmed told us that he worked for a mercenary band known as the Chill. According to him the Chill work for the Zhents.~
 
 //#6260
 @40157 = ~Leave me be!~
 
 //#15383
-@40158 = ~Welcome to my shop.  You are free to look about as you wish, but do try not to break anything.~
+@40158 = ~Welcome to my shop. You are free to look about as you wish, but do try not to break anything.~
 
 //#15384
-@40159 = ~I shall proceed with due care and attention.  What do you have to show me?~
+@40159 = ~I shall proceed with due care and attention. What do you have to show me?~
 
 //#15385
 @40160 = ~You need not worry about your merchandise, as I was just leaving.~
