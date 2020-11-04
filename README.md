@@ -1,3 +1,6 @@
+THIS REPOSITORY IS ARCHIVED. PLEASE VISIT OFFICIAL POCKET-PLANE-GROUP REPOSITORY AT: https://github.com/Pocket-Plane-Group/bg1ub
+
+
 # BG1 Unfinished Business
 A mod for BG1, BG1-TotSC, Tutu, BGT, and BGEE
 
