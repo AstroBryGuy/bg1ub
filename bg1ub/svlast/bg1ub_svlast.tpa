@@ -12,7 +12,7 @@ COPY_EXISTING ~%FirewineBridge%.ARE~ ~override~
     	fj_dest_y         = 2225
     	fj_animation      = 0x6100 // Fighter male human
     	fj_orientation    = 2      // SE
-    	fj_schedule       = BIT23 | BIT22 | BIT21 | BIT5 | BIT4 | BIT3 | BIT2 | BIT1 | BIT0 // Appear only at night
+//    	fj_schedule       = BIT23 | BIT22 | BIT21 | BIT5 | BIT4 | BIT3 | BIT2 | BIT1 | BIT0 // Appear only at night
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = "Svlast"

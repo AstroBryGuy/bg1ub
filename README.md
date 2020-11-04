@@ -1,15 +1,19 @@
 # BG1 Unfinished Business
-A mod for BG1, BG1-TotSC, Tutu, BGT, BGEE, and EET
+A mod for BG1, BG1-TotSC, Tutu, BGT, and BGEE
 
 **Version 16.0**
 
 **Developed by:** icelus, devSin, SimDing0, Idobek, Ascension64, CamDawg, SixOfSpades, and Dudley
 
-**Current Maintainer:** AstroBryGuy
+**Current Maintainer:** AstroBryGuy, jastey
 
 **BG1UB Support Forum:** http://forums.pocketplane.net/index.php/board,79.0.html
 
 **BG1UB Homepage:** http://www.pocketplane.net/bg1ub
+
+**BG1UB Discussion Thread at GibberlingsThree:** https://www.gibberlings3.net/forums/topic/29374-bg1-unfinished-business-bug-reporting-thread/
+
+**BG1UB Discussion Thread at BeamDog Forums:** https://forums.beamdog.com/discussion/38254/bg1-unfinished-business-v16-0
 
 ## GENERAL OVERVIEW
 

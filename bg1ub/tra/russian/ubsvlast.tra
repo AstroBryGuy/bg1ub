@@ -1,67 +1,67 @@
 // Svlast CRE
-@4201 = ~Svlast~
-@4202 = ~[LOTHANDER 2] My life is in shambles.~ [%tutu_var%LOTHR02]
+@4201 = ~Свласт~
+@4202 = ~[LOTHANDER 2] Моя жизнь разрушена.~ [%tutu_var%LOTHR02]
 @4203 = ~[LOTHANDER 3]~ [%tutu_var%LOTHR03]
 @4204 = ~[LOTHANDER 4]~ [%tutu_var%LOTHR04]
 
 // Revenant
 @4210 = ~Revenant~
 @4211 = ~[REVENANT 01] ~ [%tutu_var%REVEN01]
-@4212 = ~[REVENANT 02] Must... revenge...~ [%tutu_var%REVEN02]
-@4213 = ~[REVENANT 03] I've come for you.~ [%tutu_var%REVEN03]
-@4214 = ~[REVENANT 04] You... shall... pay...~ [%tutu_var%REVEN04]
+@4212 = ~[REVENANT 02] Должен... отомстить...~ [%tutu_var%REVEN02]
+@4213 = ~[REVENANT 03] Я пришел за тобой.~ [%tutu_var%REVEN03]
+@4214 = ~[REVENANT 04] Ты... заплатишь... ~ [%tutu_var%REVEN04]
 @4215 = ~[REVENANT 05] ~ [%tutu_var%REVEN05]
 @4216 = ~[REVENANT 06] ~ [%tutu_var%REVEN06]
-@4217 = ~Revenge...~
+@4217 = ~Месть...~
 @4218 = ~[REVENANT 08] ~ [%tutu_var%REVEN08]
 @4219 = ~[REVENANT 09] ~ [%tutu_var%REVEN09]
 
 
 // UBSVLAST.D
 /* #14889 */
-@4220 = ~He's out there. He's coming. I can feel his footsteps, following me. The scent of rotting flesh. He's coming for us all.~ 
+@4220 = ~Он где-то там. Он приближается. Я слышу звук его шагов, следующих за мной. Запах гниющей плоти. Он идет за всеми нами.~ 
 /* #14890 */
-@4221 = ~I-- I killed him. But he's out there, he's coming this way, I can f-- feel it.~ 
+@4221 = ~Я... Я убил его. Но он все еще там, он приближается, я чувствую это.~ 
 /* #14891 - MODIFIED */
-@4222 = ~I was a paladin, once. I fought on the side of good but it all comes to naught... I murdered him in cold blood, my brother in the faith... When he comes, let him be.~ 
+@4222 = ~Когда-то я был паладином. Я сражался на стороне добра, но все мои усилия сошли на нет... Я хладнокровно убил его - моего брата по вере... Что ж, когда он придет, я приму свою судьбу.~ 
 /* #14893 - MODIFIED */
-@4223 = ~What have you done? Now I am twice as wretched! Kill me in this tortured place! At least there will be some justice then.~ 
+@4223 = ~Что ты наделал? Все стало еще хуже! Убей меня прямо здесь, в этом проклятом месте! Пусть хотя бы так справедливость восторжествует.~ 
 /* #14894 */
-@4224 = ~What could you ever hope to learn from a wretched fool like me? Learn from my example, at least, and seek not to kill that which is good in the world.~ 
+@4224 = ~Чему бы вы могли научиться у такого дурака как я? Что ж, не повторяйте моих ошибок - попытайтесь не убивать то хорошое, что еще осталось в этом мире.~ 
 /* #14895 */
-@4225 = ~Please, just leave me to my misery.~ 
+@4225 = ~Пожалуйста, просто оставьте меня.~ 
 /* #14896 */
-@4226 = ~Much as I may welcome death, I will not face it without a fight.~ 
-@4227 = ~I am sorry, my brother... I was jealous, I was... a fool. My life is yours.~ 
+@4226 = ~Как бы я не желал смерти, я не могу принять ее без боя.~ 
+@4227 = ~Мне так жаль, брат... Я ревновал, я был... таким дураком. Теперь моя жизнь принадлежит тебе.~ 
 
 // Replies
-@4240 = ~What are you talking about? Who is coming for us?~
-@4241 = ~Who was this person? Why does he hunt you from beyond the grave?~
-@4242 = ~Are you mad? I will not simply stand by and let this creature kill you!~
-@4243 = ~As you wish. I do not agree with your decision, but if it is your choice to die by this creature's hand, I will not stand in the way.~ 
-@4244 = ~No problem. This is between you and him. I want no part of it!~
-@4245 = ~An undead creature seeks *your* death? Perhaps we should just give it what it wants!~
-@4246 = ~As you wish. Let justice be done.~
-@4247 = ~I refuse. I will not be your executioner. You will have to atone for your crimes. Perhaps then others may learn from your mistakes.~ 
-@4248 = ~That's a fine way to show show gratitude! I just saved your miserable life!~
-@4249 = ~If that's what you desire, it will be my pleasure.~
+@4240 = ~О чем ты говоришь? Кто идет за нами?~
+@4241 = ~Кто этот человек? Почему он охотится за тобой?~
+@4242 = ~Ты сошел с ума? Я не  буду просто так стоять в стороне и смотреть, как это существо убивает тебя!~
+@4243 = ~Как пожелаешь. Я не могу согласиться с подобным решением, но если это твой выбор - умереть от руки этого существа - я не буду этому мешать.~ 
+@4244 = ~Без проблем. Это твое дело. Не буду мешать.~
+@4245 = ~Эта нежить хочет *твоей* смерти? Возможно, стоит предоставить ей желаемое!~
+@4246 = ~Как пожелаешь. Да восторжествует справедливость.~
+@4247 = ~Я не буду этого делать. Я не палач. Тебе придется искупить свои преступления самому. Тогда, возможно, другим это послужит примером.~ 
+@4248 = ~Какой прекрасный способ выразить благодарность! Ничего, что я только что спас твою жизнь?!~
+@4249 = ~Если таково твое желание, я сделаю это с удовольствием.~
 
 // Journal Entries
 //  (Strref: 15713)
-@4290 = ~Svlast's Torment
-I have been witness to sad events within the Firewine ruins. An ex-paladin by the name of Svlast is being hunted by the spirit of his brother in the faith, whom he wrongfully killed. Never have I seen a more dejected and repentant soul than poor Svlast. He has begged us not to interfere but my heart does not rest easy with such a choice...~
-@4291 = ~Svlast's Torment
-An ex-paladin by the name of Svlast is being hunted by the spirit of his brother in the faith, whom he wrongfully killed. He begged us not to interfere.~
-@4292 = ~Svlast's Torment
-An ex-paladin by the name of Svlast was being hunted by the spirit of his brother in the faith, whom he wrongfully killed. I gave the creature what it wanted by killing the fallen paladin myself.~
-@4293 = ~Svlast's Torment
-Svlast's torment has ended. The creature took its revenge.~
+@4290 = ~Мучения Свласта
+Я стал свидетелем печальных событий на руинах Фаервайна. На бывшего паладина Свласта охотится дух его бывшего брата по вере, которого тот безжалостно убил. Никогда еще не встречал настолько убитого горем и раскаившегося человека, чем Свласт. Он попросил не вмешиваться, но мне очень нелекго сделать выбор...~
+@4291 = ~Мучения Свласта
+На бывшего паладина Свласта охотится дух его бывшего брата по вере, которого тот безжалостно убил. Он попросил не вмешиваться.~
+@4292 = ~Мучения Свласта
+На бывшего паладина Свласта охотится дух его бывшего брата по вере, которого тот безжалостно убил. Я помог получить этому существу желаемое и сам убил Свласта.~
+@4293 = ~Мучения Свласта
+Мучения Свласта закончились. Месть свершилась.~
 // (Strref: 15703)
-@4295 = ~Svlast's Torment
-Having survived the revenant's assault with our assistance, poor and wretched Svlast begged us to complete its task... The day is dark within these ruins, and I fear it's growing ever darker.~
-@4296 = ~Svlast's Torment
-Having survived the revenant's assault with our assistance, poor and wretched Svlast begged us to complete its task... I flatly refused. He will have to atone for his crimes.~
-@4297 = ~Svlast's Torment
-Having survived the revenant's assault with our assistance, poor and wretched Svlast begged us to complete its task... You'd think he would show some gratitude!~
-@4298 = ~Svlast's Torment
-Having survived the revenant's assault with our assistance, poor and wretched Svlast begged us to complete its task... Who was I to refuse?~
+@4295 = ~Мучения Свласта
+Пережив, с нашей помощью, нападение восставшей нежити, бедный Свласт попросил нас довершить начатое... Солнце в этих руинах клонится к закату, и я чувствую, что скоро станет совсем темно.~
+@4296 = ~Мучения Свласта
+Пережив, с нашей помощью, нападение восставшей нежити, бедный Свласт попросил нас довершить начатое... Я категорически отказался. Он должен сам искупить свою вину.~
+@4297 = ~Мучения Свласта
+Пережив, с нашей помощью, нападение восставшей нежити, бедный Свласт попросил нас довершить начатое... Мог бы и поблагодарить за спасение!~
+@4298 = ~Мучения Свласта
+Пережив, с нашей помощью, нападение восставшей нежити, бедный Свласт попросил нас довершить начатое... Я не смог отказать.~

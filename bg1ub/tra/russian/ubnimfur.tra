@@ -1,27 +1,27 @@
 //Nim Furlwing Dialog
 /* #14897 */
-@1 = ~Fine lot of help you were. My best purebred hunting hounds lay dead and bleeding. Honestly, you adventuring types always seem to fight better as bandits than as bodyguards.~ 
+@1 = ~Ох, даже не знаю, как вас благодарить. Еще немного, и мои лучшие гончие погибли бы, истекая кровью. Честно говоря, вы - приключенцы, всегда сражались как разбойники.~ 
 
 /* #14899 */
-@2 = ~Hmph. You were in my way more than anything. Now just look at this mess... They were purebreeds, I'll have you know.~ 
+@2 = ~Мда, если бы не вы... Только посмотрите на это месиво... Они были чистокровными...~ 
 
 /* #14900 */
-@3 = ~Thank you for your timely assistance. They're a fine breed of hunting dog, aren't they? Purebreds. Here, take this scroll of animal summoning as a token of my appreciation.~ 
+@3 = ~Еще раз спасибо за столь своевременную помощь. А собачки все-таки хороши, не так ли? Чистокровные. Прошу, в знак моей признательности, возьмите этот свиток призыва животных.~ 
 
 /* #14901 */
-@4 = ~I don't recommend coming between an elven hunter and her hounds, friend.~ 
+@4 = ~Не советую вставать между эльфийским охотником и его собаками, друг.~ 
 
 /* #14902 */
-@5 = ~I spend too much of my time hunting to care about the world of politics.~ 
+@5 = ~Мне нет дела до политики - все свободное время я посвящаю охоте.~ 
 
-@6 = ~Tua amin! Help! These foul beasts are attacking my hounds!~
+@6 = ~Tua amin! На помощь! Эти грязные твари напали на моих собак!~
 
 //Journal Entries
 /* #15715 */
-@7 = ~I feel more a fool than a hearty adventurer, today. It appears I arrived too late and did too little to rescue the fine hunting hounds of a certain Nim Furlwing in the Wood of Sharp Teeth. ~
+@7 = ~Мда, похоже, сегодня определенно не мой день. Я прибыл в Лес Острых Зубов слишком поздно, и не сумел помочь Ним Ферлвинг - ее гончих растерзали в клочья.~
 
 /* #15718 */
-@8 = ~I feel more a fool than a hearty adventurer, today. It appears I arrived too late and did too little to rescue the fine hunting hounds of a certain Nim Furlwing in the Wood of Sharp Teeth. ~  
+@8 = ~Мда, похоже, сегодня определенно не мой день. Я прибыл в Лес Острых Зубов слишком поздно, и не сумел помочь Ним Ферлвинг - ее гончих растерзали в клочья.~ 
 
 /* #15717 */
-@9 = ~The Wood of Sharp Teeth, indeed! Today, I rescued the purebred hounds of Nim Furlwing from dire wolves and am, admittedly, still a little sore from the attempt.~ 
+@9 = ~Лес Острых Зубов, о да! Мне удалось спасти прекрасных чистокровных гончих Ним Ферлвинг от нападения волков.~

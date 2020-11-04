@@ -3,7 +3,8 @@ IF
 THEN 
 	RESPONSE #100
 		Deactivate("%tutu_var%GATEWA2")
-		CreateCreature("watch2",[851.691]%FACE_0%)  // Watcher
+//		CreateCreature("%tutu_var%watch2",[851.691]%FACE_0%)  // Watcher
+		CreateCreature("watch9",[851.691]%FACE_0%)
 		SetGlobal("UBNoWardenLvl6","GLOBAL",1)
 END
 
@@ -13,8 +14,8 @@ IF
 	Global("UBLvl6Guards","GLOBAL",0)
 THEN
 	RESPONSE #100
-		CreateCreature("watch6",[1120.900]%FACE_6%)  // Watcher
-		CreateCreature("watch6",[1150.775]%FACE_2%)  // Watcher
-		CreateCreature("watch6",[1000.940]%FACE_8%)  // Watcher
+		CreateCreature("%tutu_var%watch6",[1120.900]%FACE_6%)  // Watcher
+		CreateCreature("%tutu_var%watch6",[1150.775]%FACE_2%)  // Watcher
+		CreateCreature("%tutu_var%watch6",[1000.940]%FACE_8%)  // Watcher
 		SetGlobal("UBLvl6Guards","GLOBAL",1)
 END

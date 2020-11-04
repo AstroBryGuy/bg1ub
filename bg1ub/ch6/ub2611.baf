@@ -5,5 +5,5 @@ IF
 THEN
 	RESPONSE #100
 		SetGlobal("WatchSpawn2","GLOBAL",1)
-		CreateCreature("WATCH6",[1520.1140]%FACE_0%)  // Watcher
+		CreateCreature("%tutu_var%WATCH6",[1520.1140]%FACE_0%)  // Watcher
 END

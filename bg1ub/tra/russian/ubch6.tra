@@ -1,8 +1,8 @@
-@1 = ~I am pleased to see thee again. Hast thou come to collect the inheritance from your father? He left thee several items, all of which are within his old room. Please forgive my abrupt nature, but much requires my attention this day. It is important that we later speak of your foster father, but not now. Meet me in the outer grounds later today.~ // #9
-@2 = ~Surrender to the guard, young one. Thou wouldst only make it worse for thyself.~ // #10
-@3 = ~Why do you ask us to surrender? We have done nothing wrong.~ // #7231 - first part
-@4 = ~Sorry, we can't surrender.~ // #7231 - second part
-@5 = ~I surrender. Take me to your prison.~ // #7232
-@6 = ~You only make things harder on yourself, child.~ // #7233
-@7 = ~You there! Stop and surrender yourself. You are accused of murdering the men Brunos Costak and Rieltar Anchev. If you give yourself up now, you will be assured of a fair trial.~ // #16810 - modified
-@8 = ~We're innocent, so we have nothing to fear. Take us to your prison.~ // #15197
+@1 = ~Рад снова видеть вас. Вы пришли за наследством своего отца? Он оставил кое-что в своей старой комнате. Прошу меня извинить, но сегодня слишком много вещей требует моего внимания. Нам с вами нужно серъезно поговорить о вашем отце, но чуть позже. Найдите меня, как закончите свои дела.~ // #9
+@2 = ~Советую вам сдаться и сложить оружие. Вы только делаете себе хуже.~ // #10
+@3 = ~Почему мы должны сдаваться? Мы не сделали ничего плохого.~ // #7231 - first part
+@4 = ~Боюсь, мы не можем этого сделать.~ // #7231 - second part
+@5 = ~Я сдаюсь. Видимо, сейчас мы отправимся в тюрьму?.~ // #7232
+@6 = ~Ты только усложняешь себе жизнь, дитя.~ // #7233
+@7 = ~Эй вы! Остановитесь и сложите оружие. Вы обвиняетесь в убийстве Бруноса Костака и Риелтара Анчева. Если сдадитесь сейчас, то обещаю вам справедливое наказание.~ // #16810 - modified
+@8 = ~Нам нечего бояться, ведь мы не совершали этого. Отправляемся в тюрьму?~ // #15197

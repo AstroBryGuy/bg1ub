@@ -34,12 +34,12 @@ COPY ~bg1ub/nimfur/ubscp402.itm~ ~override~
 COPY_EXISTING ~%Larswood%.are~ override
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4500
-    	fj_loc_y          = 2740
-    	fj_dest_x         = 4500
-    	fj_dest_y         = 2740
+    	fj_loc_x          = 4687
+    	fj_loc_y          = 3363
+    	fj_dest_x         = 4687
+    	fj_dest_y         = 3363
     	fj_animation      = 0x6111 // Fighter Female Elf
-    	fj_orientation    = 9      // NNE
+    	fj_orientation    = 15      // SSE
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = "Nim Furlwing"
@@ -47,12 +47,12 @@ COPY_EXISTING ~%Larswood%.are~ override
 	END
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4535
-    	fj_loc_y          = 2790
-    	fj_dest_x         = 4535
-    	fj_dest_y         = 2790
+    	fj_loc_x          = 4630
+    	fj_loc_y          = 3397
+    	fj_dest_x         = 4630
+    	fj_dest_y         = 3397
     	fj_animation      = 0x7401 // War Dog
-    	fj_orientation    = 9      // NNE
+    	fj_orientation    = 15      // SSE
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = "Hunting Dog"
@@ -60,12 +60,12 @@ COPY_EXISTING ~%Larswood%.are~ override
 	END
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4563
-    	fj_loc_y          = 2765
-    	fj_dest_x         = 4563
-    	fj_dest_y         = 2765
+    	fj_loc_x          = 4698
+    	fj_loc_y          = 3430
+    	fj_dest_x         = 4698
+    	fj_dest_y         = 3430
     	fj_animation      = 0x7401 // War Dog
-    	fj_orientation    = 9      // NNE
+    	fj_orientation    = 15      // SSE
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = "Hunting Dog"
@@ -73,12 +73,12 @@ COPY_EXISTING ~%Larswood%.are~ override
 	END
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4460
-    	fj_loc_y          = 2735
-    	fj_dest_x         = 4460
-    	fj_dest_y         = 2735
+    	fj_loc_x          = 4772
+    	fj_loc_y          = 3402
+    	fj_dest_x         = 4772
+    	fj_dest_y         = 3402
     	fj_animation      = 0x7401 // War Dog
-    	fj_orientation    = 9      // NNE
+    	fj_orientation    = 15      // SSE
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = "Hunting Dog"
@@ -86,12 +86,12 @@ COPY_EXISTING ~%Larswood%.are~ override
 	END
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4525
-    	fj_loc_y          = 2600
-    	fj_dest_x         = 4525
-    	fj_dest_y         = 2600
+    	fj_loc_x          = 4793
+    	fj_loc_y          = 3564
+    	fj_dest_x         = 4793
+    	fj_dest_y         = 3564
     	fj_animation      = 0x7B02 // Dire Wolf
-    	fj_orientation    = 1      // SSW
+    	fj_orientation    = 9      // NNW
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = Wolf
@@ -99,12 +99,12 @@ COPY_EXISTING ~%Larswood%.are~ override
    	END
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4560
-    	fj_loc_y          = 2570
-    	fj_dest_x         = 4560
-    	fj_dest_y         = 2570
+    	fj_loc_x          = 4769
+    	fj_loc_y          = 3627
+    	fj_dest_x         = 4769
+    	fj_dest_y         = 3627
     	fj_animation      = 0x7B02 // Dire Wolf
-    	fj_orientation    = 1      // SSW
+    	fj_orientation    = 9      // NNW
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = Wolf
@@ -112,12 +112,12 @@ COPY_EXISTING ~%Larswood%.are~ override
 	END
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4570
-    	fj_loc_y          = 2500
-    	fj_dest_x         = 4570
-    	fj_dest_y         = 2500
+    	fj_loc_x          = 4844
+    	fj_loc_y          = 3613
+    	fj_dest_x         = 4844
+    	fj_dest_y         = 3613
     	fj_animation      = 0x7B02 // Dire Wolf
-    	fj_orientation    = 1      // SSW
+    	fj_orientation    = 9      // NNW
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = Wolf
@@ -125,12 +125,12 @@ COPY_EXISTING ~%Larswood%.are~ override
    	END
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4625
-    	fj_loc_y          = 2575
-    	fj_dest_x         = 4625
-    	fj_dest_y         = 2575
+    	fj_loc_x          = 4902
+    	fj_loc_y          = 3592
+    	fj_dest_x         = 4902
+    	fj_dest_y         = 3592
     	fj_animation      = 0x7B02 // Dire Wolf
-    	fj_orientation    = 1      // SSW
+    	fj_orientation    = 9      // NNW
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = Wolf
@@ -138,12 +138,12 @@ COPY_EXISTING ~%Larswood%.are~ override
    	END
 	LPF fj_are_structure
     	INT_VAR
-    	fj_loc_x          = 4670
-    	fj_loc_y          = 2580
-    	fj_dest_x         = 4670
-    	fj_dest_y         = 2580
+    	fj_loc_x          = 4981
+    	fj_loc_y          = 3576
+    	fj_dest_x         = 4981
+    	fj_dest_y         = 3576
     	fj_animation      = 0x7B02 // Dire Wolf
-    	fj_orientation    = 1      // SSW
+    	fj_orientation    = 9      // NNW
     	STR_VAR
     	fj_structure_type = actor
     	fj_name           = Wolf

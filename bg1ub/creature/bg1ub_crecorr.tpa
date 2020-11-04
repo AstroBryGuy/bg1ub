@@ -39,10 +39,12 @@ COPY_EXISTING ~%tutu_var%GALKEN.CRE~ ~override~
   END
 BUT_ONLY
 
+
 COPY_EXISTING ~%tutu_var%BENTLY.CRE~ ~override~ // Bently Mirrorshade, FAI
   WRITE_ASCIIE 0x248 ~BENTLY~ #8       // Assigns BENTLY.BCS as the OVERRIDE script
   WRITE_ASCIIE 0x250 ~%tutu_var%SHOUT~ #8        // Assigns SHOUT.BCS as the Class script
 BUT_ONLY
+
 
 // assign creatures their correct dialogs
 COPY_EXISTING ~%tutu_var%FTOBE7.CRE~ ~override~ // Female townsperson in AR3335

@@ -2,12 +2,12 @@ BACKUP ~bg1ub/backup~
 
 
 // AUTHOR ~icelus, SimDing0, Ascension64, devSin, Idobek, CamDawg, SixOfSpades, and Echon~
-AUTHOR "http://forums.pocketplane.net/index.php/board,79.0.html"
+SUPPORT "http://forums.pocketplane.net/index.php/board,79.0.html"
 
 // MODDER
 
-VERSION ~v16.0~
-README ~bg1ub/readme.html~
+VERSION ~v16.3~
+README ~bg1ub/README.bg1ub.english.html~
 
 // Giant List of ALLOW_MISSING
 
@@ -365,7 +365,7 @@ INCLUDE ~bg1ub/vial/bg1ub_vial.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @3
-REQUIRE_PREDICATE (!GAME_IS ~bgee~) @90016  // Fixed in BGEE
+REQUIRE_PREDICATE (!GAME_IS ~bgt bgee~) @90019  // Fixed in BGEE + BGT
 
 // Author: SimDing0
 // Email: SimDing0@hotmail.com
@@ -433,7 +433,10 @@ INCLUDE ~bg1ub/kagain/bg1ub_kagain.tpa~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 BEGIN @7
-REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~corwyvrn.cre~) @90016 // Check for BGEEv2
+/*REQUIRE_PREDICATE NOT ((FILE_EXISTS_IN_GAME ~corwyvrn.cre~) OR (GAME_IS ~bgt~)) @90019 // Check for BGEEv2 or BGT
+*/
+REQUIRE_PREDICATE NOT (FILE_EXISTS_IN_GAME ~corwyvrn.cre~) @90016
+
 FORBID_FILE ~override/X#BG1NPCCore.G3~ @90001
 
 // Author: Idobek
